@@ -6,19 +6,19 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 60 | 60 |
+| Easy | 61 | 61 |
 | Medium | 28 | 28 |
 | Hard | 2 | 2 |
-| **Total** | **90** | **90** |
+| **Total** | **91** | **91** |
 
-90 problem(s), 90 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-17).
+91 problem(s), 91 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-23).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python3 | 88 |
+| Python3 | 89 |
 | Java | 1 |
 | Python | 1 |
 
@@ -26,7 +26,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (60)</summary>
+<details><summary><b>Easy</b> (61)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -62,6 +62,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 504 | [Base 7](https://leetcode.com/problems/base-7/) | Python3 | [folder](Easy/0504-base-7/) |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Python3 | [folder](Easy/0509-fibonacci-number/) |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Python3 | [folder](Easy/0643-maximum-average-subarray-i/) |
+| 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | Python3 | [folder](Easy/0682-baseball-game/) |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Python3 | [folder](Easy/0704-binary-search/) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Python3 | [folder](Easy/0876-middle-of-the-linked-list/) |
 | 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | Python3 | [folder](Easy/1189-maximum-number-of-balloons/) |

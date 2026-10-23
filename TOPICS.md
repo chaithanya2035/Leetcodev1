@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (45)
+## Array (46)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
@@ -29,6 +29,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
 - #485 [Max Consecutive Ones](Easy/0485-max-consecutive-ones/) - Easy
 - #643 [Maximum Average Subarray I](Easy/0643-maximum-average-subarray-i/) - Easy
+- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
 - #704 [Binary Search](Easy/0704-binary-search/) - Easy
 - #1288 [Remove Covered Intervals](Medium/1288-remove-covered-intervals/) - Medium
 - #1331 [Rank Transform of an Array](Easy/1331-rank-transform-of-an-array/) - Easy
@@ -236,6 +237,13 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1991 [Find the Middle Index in Array](Easy/1991-find-the-middle-index-in-array/) - Easy
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 
+## Simulation (4)
+
+- #258 [Add Digits](Easy/0258-add-digits/) - Easy
+- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
+- #1929 [Concatenation of Array](Easy/1929-concatenation-of-array/) - Easy
+- #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
+
 ## Sliding Window (4)
 
 - #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
@@ -254,12 +262,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #258 [Add Digits](Easy/0258-add-digits/) - Easy
 - #1979 [Find Greatest Common Divisor of Array](Easy/1979-find-greatest-common-divisor-of-array/) - Easy
 - #3658 [GCD of Odd and Even Sums](Easy/3658-gcd-of-odd-and-even-sums/) - Easy
-
-## Simulation (3)
-
-- #258 [Add Digits](Easy/0258-add-digits/) - Easy
-- #1929 [Concatenation of Array](Easy/1929-concatenation-of-array/) - Easy
-- #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
 
 ## Backtracking (2)
 
@@ -280,6 +282,11 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
 - #164 [Maximum Gap](Medium/0164-maximum-gap/) - Medium
 - #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
+
+## Stack (2)
+
+- #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
+- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
 
 ## Boyer–Moore String-Search Algorithm (1)
 
@@ -332,10 +339,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 ## Segment Tree (1)
 
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
-
-## Stack (1)
-
-- #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
 
 ## String Matching (1)
 

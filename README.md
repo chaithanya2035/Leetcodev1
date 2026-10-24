@@ -7,18 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 61 | 61 |
-| Medium | 28 | 28 |
+| Medium | 29 | 29 |
 | Hard | 2 | 2 |
-| **Total** | **91** | **91** |
+| **Total** | **92** | **92** |
 
-91 problem(s), 91 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-23).
+92 problem(s), 92 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-24).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python3 | 89 |
+| Python3 | 90 |
 | Java | 1 |
 | Python | 1 |
 
@@ -94,7 +94,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-### Medium (28)
+### Medium (29)
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -122,6 +122,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | Python3 | [folder](Medium/1291-sequential-digits/) |
 | 1343 | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Python3 | [folder](Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) |
 | 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | Python3 | [folder](Medium/1358-number-of-substrings-containing-all-three-characters/) |
+| 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | Python3 | [folder](Medium/1441-build-an-array-with-stack-operations/) |
 | 1846 | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | Python3 | [folder](Medium/1846-maximum-element-after-decreasing-and-rearranging/) |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Python3 | [folder](Medium/2095-delete-the-middle-node-of-a-linked-list/) |
 | 3737 | [Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) | Python3 | [folder](Medium/3737-count-subarrays-with-majority-element-i/) |

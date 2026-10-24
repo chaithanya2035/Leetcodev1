@@ -6,19 +6,19 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 61 | 61 |
+| Easy | 62 | 62 |
 | Medium | 29 | 29 |
 | Hard | 2 | 2 |
-| **Total** | **92** | **92** |
+| **Total** | **93** | **93** |
 
-92 problem(s), 92 solution file(s) in this repository.
+93 problem(s), 93 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-24).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python3 | 90 |
+| Python3 | 91 |
 | Java | 1 |
 | Python | 1 |
 
@@ -26,7 +26,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (61)</summary>
+<details><summary><b>Easy</b> (62)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -67,6 +67,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Python3 | [folder](Easy/0876-middle-of-the-linked-list/) |
 | 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | Python3 | [folder](Easy/1189-maximum-number-of-balloons/) |
 | 1331 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | Python3 | [folder](Easy/1331-rank-transform-of-an-array/) |
+| 1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | Python3 | [folder](Easy/1475-final-prices-with-a-special-discount-in-a-shop/) |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | Python3 | [folder](Easy/1512-number-of-good-pairs/) |
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Python3 | [folder](Easy/1732-find-the-highest-altitude/) |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Python3 | [folder](Easy/1929-concatenation-of-array/) |

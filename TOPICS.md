@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (46)
+## Array (47)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
@@ -34,6 +34,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1288 [Remove Covered Intervals](Medium/1288-remove-covered-intervals/) - Medium
 - #1331 [Rank Transform of an Array](Easy/1331-rank-transform-of-an-array/) - Easy
 - #1343 [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) - Medium
+- #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
 - #1512 [Number of Good Pairs](Easy/1512-number-of-good-pairs/) - Easy
 - #1732 [Find the Highest Altitude](Easy/1732-find-the-highest-altitude/) - Easy
 - #1846 [Maximum Element After Decreasing and Rearranging](Medium/1846-maximum-element-after-decreasing-and-rearranging/) - Medium
@@ -216,6 +217,14 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2404 [Most Frequent Even Element](Easy/2404-most-frequent-even-element/) - Easy
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 
+## Simulation (5)
+
+- #258 [Add Digits](Easy/0258-add-digits/) - Easy
+- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
+- #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
+- #1929 [Concatenation of Array](Easy/1929-concatenation-of-array/) - Easy
+- #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
+
 ## Dynamic Programming (4)
 
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
@@ -237,13 +246,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1991 [Find the Middle Index in Array](Easy/1991-find-the-middle-index-in-array/) - Easy
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 
-## Simulation (4)
-
-- #258 [Add Digits](Easy/0258-add-digits/) - Easy
-- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
-- #1929 [Concatenation of Array](Easy/1929-concatenation-of-array/) - Easy
-- #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
-
 ## Sliding Window (4)
 
 - #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
@@ -262,6 +264,12 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #258 [Add Digits](Easy/0258-add-digits/) - Easy
 - #1979 [Find Greatest Common Divisor of Array](Easy/1979-find-greatest-common-divisor-of-array/) - Easy
 - #3658 [GCD of Odd and Even Sums](Easy/3658-gcd-of-odd-and-even-sums/) - Easy
+
+## Stack (3)
+
+- #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
+- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
+- #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
 
 ## Backtracking (2)
 
@@ -282,11 +290,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
 - #164 [Maximum Gap](Medium/0164-maximum-gap/) - Medium
 - #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
-
-## Stack (2)
-
-- #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
-- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
 
 ## Boyer–Moore String-Search Algorithm (1)
 

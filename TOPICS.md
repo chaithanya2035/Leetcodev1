@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (47)
+## Array (48)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
@@ -35,6 +35,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1331 [Rank Transform of an Array](Easy/1331-rank-transform-of-an-array/) - Easy
 - #1343 [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) - Medium
 - #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
+- #1475 [Final Prices With a Special Discount in a Shop](Easy/1475-final-prices-with-a-special-discount-in-a-shop/) - Easy
 - #1512 [Number of Good Pairs](Easy/1512-number-of-good-pairs/) - Easy
 - #1732 [Find the Highest Altitude](Easy/1732-find-the-highest-altitude/) - Easy
 - #1846 [Maximum Element After Decreasing and Rearranging](Medium/1846-maximum-element-after-decreasing-and-rearranging/) - Medium
@@ -253,6 +254,13 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1343 [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) - Medium
 - #1358 [Number of Substrings Containing All Three Characters](Medium/1358-number-of-substrings-containing-all-three-characters/) - Medium
 
+## Stack (4)
+
+- #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
+- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
+- #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
+- #1475 [Final Prices With a Special Discount in a Shop](Easy/1475-final-prices-with-a-special-discount-in-a-shop/) - Easy
+
 ## Divide and Conquer (3)
 
 - #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
@@ -264,12 +272,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #258 [Add Digits](Easy/0258-add-digits/) - Easy
 - #1979 [Find Greatest Common Divisor of Array](Easy/1979-find-greatest-common-divisor-of-array/) - Easy
 - #3658 [GCD of Odd and Even Sums](Easy/3658-gcd-of-odd-and-even-sums/) - Easy
-
-## Stack (3)
-
-- #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
-- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
-- #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
 
 ## Backtracking (2)
 
@@ -326,6 +328,10 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 ## Merge Sort (1)
 
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
+
+## Monotonic Stack (1)
+
+- #1475 [Final Prices With a Special Discount in a Shop](Easy/1475-final-prices-with-a-special-discount-in-a-shop/) - Easy
 
 ## Newton's Method (1)
 

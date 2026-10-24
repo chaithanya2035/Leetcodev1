@@ -6,19 +6,19 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 62 | 62 |
+| Easy | 63 | 63 |
 | Medium | 29 | 29 |
 | Hard | 2 | 2 |
-| **Total** | **93** | **93** |
+| **Total** | **94** | **94** |
 
-93 problem(s), 93 solution file(s) in this repository.
+94 problem(s), 94 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-24).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python3 | 91 |
+| Python3 | 92 |
 | Java | 1 |
 | Python | 1 |
 
@@ -26,7 +26,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (62)</summary>
+<details><summary><b>Easy</b> (63)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -59,6 +59,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | Python3 | [folder](Easy/0367-valid-perfect-square/) |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Python3 | [folder](Easy/0387-first-unique-character-in-a-string/) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Python3 | [folder](Easy/0485-max-consecutive-ones/) |
+| 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Python3 | [folder](Easy/0496-next-greater-element-i/) |
 | 504 | [Base 7](https://leetcode.com/problems/base-7/) | Python3 | [folder](Easy/0504-base-7/) |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Python3 | [folder](Easy/0509-fibonacci-number/) |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Python3 | [folder](Easy/0643-maximum-average-subarray-i/) |

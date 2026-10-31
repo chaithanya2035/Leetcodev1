@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (49)
+## Array (50)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
@@ -32,6 +32,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #643 [Maximum Average Subarray I](Easy/0643-maximum-average-subarray-i/) - Easy
 - #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
 - #704 [Binary Search](Easy/0704-binary-search/) - Easy
+- #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
 - #1288 [Remove Covered Intervals](Medium/1288-remove-covered-intervals/) - Medium
 - #1331 [Rank Transform of an Array](Easy/1331-rank-transform-of-an-array/) - Easy
 - #1343 [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) - Medium
@@ -220,6 +221,15 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2404 [Most Frequent Even Element](Easy/2404-most-frequent-even-element/) - Easy
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 
+## Stack (6)
+
+- #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
+- #496 [Next Greater Element I](Easy/0496-next-greater-element-i/) - Easy
+- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
+- #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
+- #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
+- #1475 [Final Prices With a Special Discount in a Shop](Easy/1475-final-prices-with-a-special-discount-in-a-shop/) - Easy
+
 ## Simulation (5)
 
 - #258 [Add Digits](Easy/0258-add-digits/) - Easy
@@ -227,14 +237,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
 - #1929 [Concatenation of Array](Easy/1929-concatenation-of-array/) - Easy
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
-
-## Stack (5)
-
-- #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
-- #496 [Next Greater Element I](Easy/0496-next-greater-element-i/) - Easy
-- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
-- #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
-- #1475 [Final Prices With a Special Discount in a Shop](Easy/1475-final-prices-with-a-special-discount-in-a-shop/) - Easy
 
 ## Dynamic Programming (4)
 
@@ -270,6 +272,12 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #53 [Maximum Subarray](Medium/0053-maximum-subarray/) - Medium
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 
+## Monotonic Stack (3)
+
+- #496 [Next Greater Element I](Easy/0496-next-greater-element-i/) - Easy
+- #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
+- #1475 [Final Prices With a Special Discount in a Shop](Easy/1475-final-prices-with-a-special-discount-in-a-shop/) - Easy
+
 ## Number Theory (3)
 
 - #258 [Add Digits](Easy/0258-add-digits/) - Easy
@@ -290,11 +298,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
 - #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
 - #1846 [Maximum Element After Decreasing and Rearranging](Medium/1846-maximum-element-after-decreasing-and-rearranging/) - Medium
-
-## Monotonic Stack (2)
-
-- #496 [Next Greater Element I](Easy/0496-next-greater-element-i/) - Easy
-- #1475 [Final Prices With a Special Discount in a Shop](Easy/1475-final-prices-with-a-special-discount-in-a-shop/) - Easy
 
 ## Pigeonhole Principle (2)
 

@@ -7,18 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 67 | 67 |
-| Medium | 30 | 30 |
+| Medium | 31 | 31 |
 | Hard | 2 | 2 |
-| **Total** | **99** | **99** |
+| **Total** | **100** | **100** |
 
-99 problem(s), 99 solution file(s) in this repository.
+100 problem(s), 100 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-31).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python3 | 97 |
+| Python3 | 98 |
 | Java | 1 |
 | Python | 1 |
 
@@ -100,7 +100,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-### Medium (30)
+### Medium (31)
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -118,6 +118,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Python3 | [folder](Medium/0053-maximum-subarray/) |
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | Python3 | [folder](Medium/0078-subsets/) |
 | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | Python3 | [folder](Medium/0090-subsets-ii/) |
+| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Python3 | [folder](Medium/0102-binary-tree-level-order-traversal/) |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Python3 | [folder](Medium/0142-linked-list-cycle-ii/) |
 | 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | Python3 | [folder](Medium/0164-maximum-gap/) |
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | Python3 | [folder](Medium/0172-factorial-trailing-zeroes/) |

@@ -7,18 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 63 | 63 |
-| Medium | 29 | 29 |
+| Medium | 30 | 30 |
 | Hard | 2 | 2 |
-| **Total** | **94** | **94** |
+| **Total** | **95** | **95** |
 
-94 problem(s), 94 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-24).
+95 problem(s), 95 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-31).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python3 | 92 |
+| Python3 | 93 |
 | Java | 1 |
 | Python | 1 |
 
@@ -96,7 +96,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-### Medium (29)
+### Medium (30)
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -120,6 +120,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Python3 | [folder](Medium/0189-rotate-array/) |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Python3 | [folder](Medium/0238-product-of-array-except-self/) |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Python3 | [folder](Medium/0287-find-the-duplicate-number/) |
+| 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Python3 | [folder](Medium/0739-daily-temperatures/) |
 | 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | Python3 | [folder](Medium/1288-remove-covered-intervals/) |
 | 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | Python3 | [folder](Medium/1291-sequential-digits/) |
 | 1343 | [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Python3 | [folder](Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) |

@@ -204,6 +204,16 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #326 [Power of Three](Easy/0326-power-of-three/) - Easy
 - #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
 
+## Stack (7)
+
+- #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
+- #496 [Next Greater Element I](Easy/0496-next-greater-element-i/) - Easy
+- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
+- #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
+- #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
+- #1475 [Final Prices With a Special Discount in a Shop](Easy/1475-final-prices-with-a-special-discount-in-a-shop/) - Easy
+
 ## Bit Manipulation (6)
 
 - #78 [Subsets](Medium/0078-subsets/) - Medium
@@ -221,15 +231,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2287 [Rearrange Characters to Make Target String](Easy/2287-rearrange-characters-to-make-target-string/) - Easy
 - #2404 [Most Frequent Even Element](Easy/2404-most-frequent-even-element/) - Easy
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
-
-## Stack (6)
-
-- #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
-- #496 [Next Greater Element I](Easy/0496-next-greater-element-i/) - Easy
-- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
-- #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
-- #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
-- #1475 [Final Prices With a Special Discount in a Shop](Easy/1475-final-prices-with-a-special-discount-in-a-shop/) - Easy
 
 ## Simulation (5)
 
@@ -305,6 +306,10 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #164 [Maximum Gap](Medium/0164-maximum-gap/) - Medium
 - #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
 
+## Binary Tree (1)
+
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
+
 ## Boyer–Moore String-Search Algorithm (1)
 
 - #28 [Find the Index of the First Occurrence in a String](Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) - Easy
@@ -316,6 +321,10 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 ## Bucket Sort (1)
 
 - #164 [Maximum Gap](Medium/0164-maximum-gap/) - Medium
+
+## Depth-First Search (1)
+
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
 
 ## Euclidean Algorithm (1)
 
@@ -360,6 +369,10 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 ## String Matching (1)
 
 - #28 [Find the Index of the First Occurrence in a String](Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) - Easy
+
+## Tree (1)
+
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
 
 ## Trie (1)
 

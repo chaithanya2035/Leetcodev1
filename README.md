@@ -6,19 +6,19 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 63 | 63 |
+| Easy | 64 | 64 |
 | Medium | 30 | 30 |
 | Hard | 2 | 2 |
-| **Total** | **95** | **95** |
+| **Total** | **96** | **96** |
 
-95 problem(s), 95 solution file(s) in this repository.
+96 problem(s), 96 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-31).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python3 | 93 |
+| Python3 | 94 |
 | Java | 1 |
 | Python | 1 |
 
@@ -26,7 +26,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (63)</summary>
+<details><summary><b>Easy</b> (64)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -83,6 +83,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 2520 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | Python3 | [folder](Easy/2520-count-the-digits-that-divide-a-number/) |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/) | Python3 | [folder](Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) |
 | 3069 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | Python3 | [folder](Easy/3069-distribute-elements-into-two-arrays-i/) |
+| 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | Python3 | [folder](Easy/3110-score-of-a-string/) |
 | 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | Python3 | [folder](Easy/3345-smallest-divisible-digit-product-i/) |
 | 3471 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | Python3 | [folder](Easy/3471-find-the-largest-almost-missing-integer/) |
 | 3622 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | Python3 | [folder](Easy/3622-check-divisibility-by-digit-sum-and-product/) |

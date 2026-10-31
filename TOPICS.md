@@ -268,6 +268,18 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1343 [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) - Medium
 - #1358 [Number of Substrings Containing All Three Characters](Medium/1358-number-of-substrings-containing-all-three-characters/) - Medium
 
+## Binary Tree (3)
+
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
+- #100 [Same Tree](Easy/0100-same-tree/) - Easy
+- #101 [Symmetric Tree](Easy/0101-symmetric-tree/) - Easy
+
+## Depth-First Search (3)
+
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
+- #100 [Same Tree](Easy/0100-same-tree/) - Easy
+- #101 [Symmetric Tree](Easy/0101-symmetric-tree/) - Easy
+
 ## Divide and Conquer (3)
 
 - #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
@@ -286,20 +298,21 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1979 [Find Greatest Common Divisor of Array](Easy/1979-find-greatest-common-divisor-of-array/) - Easy
 - #3658 [GCD of Odd and Even Sums](Easy/3658-gcd-of-odd-and-even-sums/) - Easy
 
+## Tree (3)
+
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
+- #100 [Same Tree](Easy/0100-same-tree/) - Easy
+- #101 [Symmetric Tree](Easy/0101-symmetric-tree/) - Easy
+
 ## Backtracking (2)
 
 - #78 [Subsets](Medium/0078-subsets/) - Medium
 - #90 [Subsets II](Medium/0090-subsets-ii/) - Medium
 
-## Binary Tree (2)
+## Breadth-First Search (2)
 
-- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
 - #100 [Same Tree](Easy/0100-same-tree/) - Easy
-
-## Depth-First Search (2)
-
-- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
-- #100 [Same Tree](Easy/0100-same-tree/) - Easy
+- #101 [Symmetric Tree](Easy/0101-symmetric-tree/) - Easy
 
 ## Enumeration (2)
 
@@ -316,11 +329,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #164 [Maximum Gap](Medium/0164-maximum-gap/) - Medium
 - #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
 
-## Tree (2)
-
-- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
-- #100 [Same Tree](Easy/0100-same-tree/) - Easy
-
 ## Boyer–Moore String-Search Algorithm (1)
 
 - #28 [Find the Index of the First Occurrence in a String](Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) - Easy
@@ -328,10 +336,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 ## Bracket Sequences (1)
 
 - #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
-
-## Breadth-First Search (1)
-
-- #100 [Same Tree](Easy/0100-same-tree/) - Easy
 
 ## Bucket Sort (1)
 

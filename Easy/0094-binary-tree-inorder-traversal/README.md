@@ -1,0 +1,18 @@
+# Binary Tree Inorder Traversal
+
+- Problem: #94
+- Difficulty: Easy
+- LeetCode: https://leetcode.com/problems/binary-tree-inorder-traversal/
+
+## Solutions
+
+| Language | File | Runtime | Memory |
+|----------|------|---------|--------|
+| Python3 | [solution.py](solution.py) | 0 ms | 19.1 MB |
+
+## Topics
+
+- Stack
+- Tree
+- Depth-First Search
+- Binary Tree

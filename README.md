@@ -7,18 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 67 | 67 |
-| Medium | 31 | 31 |
+| Medium | 32 | 32 |
 | Hard | 2 | 2 |
-| **Total** | **100** | **100** |
+| **Total** | **101** | **101** |
 
-100 problem(s), 100 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-31).
+101 problem(s), 101 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-02).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python3 | 98 |
+| Python3 | 99 |
 | Java | 1 |
 | Python | 1 |
 
@@ -100,7 +100,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-### Medium (31)
+### Medium (32)
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -125,6 +125,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Python3 | [folder](Medium/0189-rotate-array/) |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Python3 | [folder](Medium/0238-product-of-array-except-self/) |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Python3 | [folder](Medium/0287-find-the-duplicate-number/) |
+| 453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | Python3 | [folder](Medium/0453-minimum-moves-to-equal-array-elements/) |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Python3 | [folder](Medium/0739-daily-temperatures/) |
 | 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | Python3 | [folder](Medium/1288-remove-covered-intervals/) |
 | 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | Python3 | [folder](Medium/1291-sequential-digits/) |

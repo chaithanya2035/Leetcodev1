@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (50)
+## Array (51)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
@@ -27,6 +27,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #238 [Product of Array Except Self](Medium/0238-product-of-array-except-self/) - Medium
 - #268 [Missing Number](Easy/0268-missing-number/) - Easy
 - #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
+- #453 [Minimum Moves to Equal Array Elements](Medium/0453-minimum-moves-to-equal-array-elements/) - Medium
 - #485 [Max Consecutive Ones](Easy/0485-max-consecutive-ones/) - Easy
 - #496 [Next Greater Element I](Easy/0496-next-greater-element-i/) - Easy
 - #643 [Maximum Average Subarray I](Easy/0643-maximum-average-subarray-i/) - Easy
@@ -55,7 +56,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 - #3875 [Construct Uniform Parity Array I](Easy/3875-construct-uniform-parity-array-i/) - Easy
 
-## Math (27)
+## Math (28)
 
 - #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
 - #7 [Reverse Integer](Medium/0007-reverse-integer/) - Medium
@@ -71,6 +72,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #268 [Missing Number](Easy/0268-missing-number/) - Easy
 - #326 [Power of Three](Easy/0326-power-of-three/) - Easy
 - #367 [Valid Perfect Square](Easy/0367-valid-perfect-square/) - Easy
+- #453 [Minimum Moves to Equal Array Elements](Medium/0453-minimum-moves-to-equal-array-elements/) - Medium
 - #504 [Base 7](Easy/0504-base-7/) - Easy
 - #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
 - #1512 [Number of Good Pairs](Easy/1512-number-of-good-pairs/) - Easy

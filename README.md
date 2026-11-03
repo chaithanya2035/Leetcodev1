@@ -6,19 +6,19 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 67 | 67 |
+| Easy | 68 | 68 |
 | Medium | 32 | 32 |
 | Hard | 2 | 2 |
-| **Total** | **101** | **101** |
+| **Total** | **102** | **102** |
 
-101 problem(s), 101 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-02).
+102 problem(s), 102 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-03).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python3 | 99 |
+| Python3 | 100 |
 | Java | 1 |
 | Python | 1 |
 
@@ -26,7 +26,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (67)</summary>
+<details><summary><b>Easy</b> (68)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -93,6 +93,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | Python3 | [folder](Easy/3658-gcd-of-odd-and-even-sums/) |
 | 3718 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | Python3 | [folder](Easy/3718-smallest-missing-multiple-of-k/) |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | Python3 | [folder](Easy/3731-find-missing-elements/) |
+| 3736 | [Minimum Moves to Equal Array Elements III](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-iii/) | Python3 | [folder](Easy/3736-minimum-moves-to-equal-array-elements-iii/) |
 | 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/) | Python3 | [folder](Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels/) | Python3 | [folder](Easy/3856-trim-trailing-vowels/) |
 | 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | Python3 | [folder](Easy/3870-count-commas-in-range/) |

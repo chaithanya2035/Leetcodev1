@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (52)
+## Array (53)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
@@ -28,6 +28,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #268 [Missing Number](Easy/0268-missing-number/) - Easy
 - #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
 - #453 [Minimum Moves to Equal Array Elements](Medium/0453-minimum-moves-to-equal-array-elements/) - Medium
+- #462 [Minimum Moves to Equal Array Elements II](Medium/0462-minimum-moves-to-equal-array-elements-ii/) - Medium
 - #485 [Max Consecutive Ones](Easy/0485-max-consecutive-ones/) - Easy
 - #496 [Next Greater Element I](Easy/0496-next-greater-element-i/) - Easy
 - #643 [Maximum Average Subarray I](Easy/0643-maximum-average-subarray-i/) - Easy
@@ -57,7 +58,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 - #3875 [Construct Uniform Parity Array I](Easy/3875-construct-uniform-parity-array-i/) - Easy
 
-## Math (29)
+## Math (30)
 
 - #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
 - #7 [Reverse Integer](Medium/0007-reverse-integer/) - Medium
@@ -74,6 +75,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #326 [Power of Three](Easy/0326-power-of-three/) - Easy
 - #367 [Valid Perfect Square](Easy/0367-valid-perfect-square/) - Easy
 - #453 [Minimum Moves to Equal Array Elements](Medium/0453-minimum-moves-to-equal-array-elements/) - Medium
+- #462 [Minimum Moves to Equal Array Elements II](Medium/0462-minimum-moves-to-equal-array-elements-ii/) - Medium
 - #504 [Base 7](Easy/0504-base-7/) - Easy
 - #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
 - #1512 [Number of Good Pairs](Easy/1512-number-of-good-pairs/) - Easy
@@ -158,13 +160,14 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
 
-## Sorting (11)
+## Sorting (12)
 
 - #49 [Group Anagrams](Medium/0049-group-anagrams/) - Medium
 - #164 [Maximum Gap](Medium/0164-maximum-gap/) - Medium
 - #217 [Contains Duplicate](Easy/0217-contains-duplicate/) - Easy
 - #242 [Valid Anagram](Easy/0242-valid-anagram/) - Easy
 - #268 [Missing Number](Easy/0268-missing-number/) - Easy
+- #462 [Minimum Moves to Equal Array Elements II](Medium/0462-minimum-moves-to-equal-array-elements-ii/) - Medium
 - #1288 [Remove Covered Intervals](Medium/1288-remove-covered-intervals/) - Medium
 - #1331 [Rank Transform of an Array](Easy/1331-rank-transform-of-an-array/) - Easy
 - #1846 [Maximum Element After Decreasing and Rearranging](Medium/1846-maximum-element-after-decreasing-and-rearranging/) - Medium

@@ -7,18 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 69 | 69 |
-| Medium | 33 | 33 |
+| Medium | 34 | 34 |
 | Hard | 2 | 2 |
-| **Total** | **104** | **104** |
+| **Total** | **105** | **105** |
 
-104 problem(s), 104 solution file(s) in this repository.
+105 problem(s), 105 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-05).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python3 | 102 |
+| Python3 | 103 |
 | Java | 1 |
 | Python | 1 |
 
@@ -102,7 +102,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-### Medium (33)
+### Medium (34)
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -129,6 +129,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Python3 | [folder](Medium/0287-find-the-duplicate-number/) |
 | 453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | Python3 | [folder](Medium/0453-minimum-moves-to-equal-array-elements/) |
 | 462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | Python3 | [folder](Medium/0462-minimum-moves-to-equal-array-elements-ii/) |
+| 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Python3 | [folder](Medium/0701-insert-into-a-binary-search-tree/) |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Python3 | [folder](Medium/0739-daily-temperatures/) |
 | 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | Python3 | [folder](Medium/1288-remove-covered-intervals/) |
 | 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | Python3 | [folder](Medium/1291-sequential-digits/) |

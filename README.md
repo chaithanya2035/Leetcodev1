@@ -6,19 +6,19 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 68 | 68 |
+| Easy | 69 | 69 |
 | Medium | 33 | 33 |
 | Hard | 2 | 2 |
-| **Total** | **103** | **103** |
+| **Total** | **104** | **104** |
 
-103 problem(s), 103 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-03).
+104 problem(s), 104 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-05).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python3 | 101 |
+| Python3 | 102 |
 | Java | 1 |
 | Python | 1 |
 
@@ -26,7 +26,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (68)</summary>
+<details><summary><b>Easy</b> (69)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -71,6 +71,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Python3 | [folder](Easy/0876-middle-of-the-linked-list/) |
 | 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | Python3 | [folder](Easy/1189-maximum-number-of-balloons/) |
 | 1331 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) | Python3 | [folder](Easy/1331-rank-transform-of-an-array/) |
+| 1385 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) | Python3 | [folder](Easy/1385-find-the-distance-value-between-two-arrays/) |
 | 1475 | [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) | Python3 | [folder](Easy/1475-final-prices-with-a-special-discount-in-a-shop/) |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | Python3 | [folder](Easy/1512-number-of-good-pairs/) |
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | Python3 | [folder](Easy/1732-find-the-highest-altitude/) |

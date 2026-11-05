@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (53)
+## Array (54)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
@@ -38,6 +38,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1288 [Remove Covered Intervals](Medium/1288-remove-covered-intervals/) - Medium
 - #1331 [Rank Transform of an Array](Easy/1331-rank-transform-of-an-array/) - Easy
 - #1343 [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) - Medium
+- #1385 [Find the Distance Value Between Two Arrays](Easy/1385-find-the-distance-value-between-two-arrays/) - Easy
 - #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
 - #1475 [Final Prices With a Special Discount in a Shop](Easy/1475-final-prices-with-a-special-discount-in-a-shop/) - Easy
 - #1512 [Number of Good Pairs](Easy/1512-number-of-good-pairs/) - Easy
@@ -140,7 +141,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3110 [Score of a String](Easy/3110-score-of-a-string/) - Easy
 - #3856 [Trim Trailing Vowels](Easy/3856-trim-trailing-vowels/) - Easy
 
-## Two Pointers (17)
+## Two Pointers (18)
 
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
 - #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
@@ -157,10 +158,11 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
 - #344 [Reverse String](Easy/0344-reverse-string/) - Easy
 - #876 [Middle of the Linked List](Easy/0876-middle-of-the-linked-list/) - Easy
+- #1385 [Find the Distance Value Between Two Arrays](Easy/1385-find-the-distance-value-between-two-arrays/) - Easy
 - #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
 
-## Sorting (12)
+## Sorting (13)
 
 - #49 [Group Anagrams](Medium/0049-group-anagrams/) - Medium
 - #164 [Maximum Gap](Medium/0164-maximum-gap/) - Medium
@@ -170,12 +172,13 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #462 [Minimum Moves to Equal Array Elements II](Medium/0462-minimum-moves-to-equal-array-elements-ii/) - Medium
 - #1288 [Remove Covered Intervals](Medium/1288-remove-covered-intervals/) - Medium
 - #1331 [Rank Transform of an Array](Easy/1331-rank-transform-of-an-array/) - Easy
+- #1385 [Find the Distance Value Between Two Arrays](Easy/1385-find-the-distance-value-between-two-arrays/) - Easy
 - #1846 [Maximum Element After Decreasing and Rearranging](Medium/1846-maximum-element-after-decreasing-and-rearranging/) - Medium
 - #2089 [Find Target Indices After Sorting Array](Easy/2089-find-target-indices-after-sorting-array/) - Easy
 - #2996 [Smallest Missing Integer Greater Than Sequential Prefix Sum](Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) - Easy
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
 
-## Binary Search (10)
+## Binary Search (11)
 
 - #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
 - #33 [Search in Rotated Sorted Array](Medium/0033-search-in-rotated-sorted-array/) - Medium
@@ -186,6 +189,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
 - #367 [Valid Perfect Square](Easy/0367-valid-perfect-square/) - Easy
 - #704 [Binary Search](Easy/0704-binary-search/) - Easy
+- #1385 [Find the Distance Value Between Two Arrays](Easy/1385-find-the-distance-value-between-two-arrays/) - Easy
 - #2089 [Find Target Indices After Sorting Array](Easy/2089-find-target-indices-after-sorting-array/) - Easy
 
 ## Linked List (10)

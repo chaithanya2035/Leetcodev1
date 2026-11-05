@@ -243,6 +243,14 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2404 [Most Frequent Even Element](Easy/2404-most-frequent-even-element/) - Easy
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 
+## Binary Tree (5)
+
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
+- #100 [Same Tree](Easy/0100-same-tree/) - Easy
+- #101 [Symmetric Tree](Easy/0101-symmetric-tree/) - Easy
+- #102 [Binary Tree Level Order Traversal](Medium/0102-binary-tree-level-order-traversal/) - Medium
+- #701 [Insert into a Binary Search Tree](Medium/0701-insert-into-a-binary-search-tree/) - Medium
+
 ## Simulation (5)
 
 - #258 [Add Digits](Easy/0258-add-digits/) - Easy
@@ -251,12 +259,13 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1929 [Concatenation of Array](Easy/1929-concatenation-of-array/) - Easy
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
 
-## Binary Tree (4)
+## Tree (5)
 
 - #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
 - #100 [Same Tree](Easy/0100-same-tree/) - Easy
 - #101 [Symmetric Tree](Easy/0101-symmetric-tree/) - Easy
 - #102 [Binary Tree Level Order Traversal](Medium/0102-binary-tree-level-order-traversal/) - Medium
+- #701 [Insert into a Binary Search Tree](Medium/0701-insert-into-a-binary-search-tree/) - Medium
 
 ## Dynamic Programming (4)
 
@@ -285,13 +294,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #643 [Maximum Average Subarray I](Easy/0643-maximum-average-subarray-i/) - Easy
 - #1343 [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) - Medium
 - #1358 [Number of Substrings Containing All Three Characters](Medium/1358-number-of-substrings-containing-all-three-characters/) - Medium
-
-## Tree (4)
-
-- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
-- #100 [Same Tree](Easy/0100-same-tree/) - Easy
-- #101 [Symmetric Tree](Easy/0101-symmetric-tree/) - Easy
-- #102 [Binary Tree Level Order Traversal](Medium/0102-binary-tree-level-order-traversal/) - Medium
 
 ## Breadth-First Search (3)
 
@@ -342,6 +344,10 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
 - #164 [Maximum Gap](Medium/0164-maximum-gap/) - Medium
 - #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
+
+## Binary Search Tree (1)
+
+- #701 [Insert into a Binary Search Tree](Medium/0701-insert-into-a-binary-search-tree/) - Medium
 
 ## Boyer–Moore String-Search Algorithm (1)
 

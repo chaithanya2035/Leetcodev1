@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (54)
+## Array (55)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
@@ -23,6 +23,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #136 [Single Number](Easy/0136-single-number/) - Easy
 - #164 [Maximum Gap](Medium/0164-maximum-gap/) - Medium
 - #189 [Rotate Array](Medium/0189-rotate-array/) - Medium
+- #204 [Count Primes](Medium/0204-count-primes/) - Medium
 - #217 [Contains Duplicate](Easy/0217-contains-duplicate/) - Easy
 - #238 [Product of Array Except Self](Medium/0238-product-of-array-except-self/) - Medium
 - #268 [Missing Number](Easy/0268-missing-number/) - Easy
@@ -59,7 +60,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 - #3875 [Construct Uniform Parity Array I](Easy/3875-construct-uniform-parity-array-i/) - Easy
 
-## Math (30)
+## Math (31)
 
 - #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
 - #7 [Reverse Integer](Medium/0007-reverse-integer/) - Medium
@@ -70,6 +71,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #172 [Factorial Trailing Zeroes](Medium/0172-factorial-trailing-zeroes/) - Medium
 - #189 [Rotate Array](Medium/0189-rotate-array/) - Medium
 - #202 [Happy Number](Easy/0202-happy-number/) - Easy
+- #204 [Count Primes](Medium/0204-count-primes/) - Medium
 - #231 [Power of Two](Easy/0231-power-of-two/) - Easy
 - #258 [Add Digits](Easy/0258-add-digits/) - Easy
 - #268 [Missing Number](Easy/0268-missing-number/) - Easy
@@ -281,6 +283,13 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #202 [Happy Number](Easy/0202-happy-number/) - Easy
 - #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
 
+## Number Theory (4)
+
+- #204 [Count Primes](Medium/0204-count-primes/) - Medium
+- #258 [Add Digits](Easy/0258-add-digits/) - Easy
+- #1979 [Find Greatest Common Divisor of Array](Easy/1979-find-greatest-common-divisor-of-array/) - Easy
+- #3658 [GCD of Odd and Even Sums](Easy/3658-gcd-of-odd-and-even-sums/) - Easy
+
 ## Prefix Sum (4)
 
 - #238 [Product of Array Except Self](Medium/0238-product-of-array-except-self/) - Medium
@@ -313,27 +322,22 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #53 [Maximum Subarray](Medium/0053-maximum-subarray/) - Medium
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 
+## Enumeration (3)
+
+- #204 [Count Primes](Medium/0204-count-primes/) - Medium
+- #1291 [Sequential Digits](Medium/1291-sequential-digits/) - Medium
+- #3345 [Smallest Divisible Digit Product I](Easy/3345-smallest-divisible-digit-product-i/) - Easy
+
 ## Monotonic Stack (3)
 
 - #496 [Next Greater Element I](Easy/0496-next-greater-element-i/) - Easy
 - #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
 - #1475 [Final Prices With a Special Discount in a Shop](Easy/1475-final-prices-with-a-special-discount-in-a-shop/) - Easy
 
-## Number Theory (3)
-
-- #258 [Add Digits](Easy/0258-add-digits/) - Easy
-- #1979 [Find Greatest Common Divisor of Array](Easy/1979-find-greatest-common-divisor-of-array/) - Easy
-- #3658 [GCD of Odd and Even Sums](Easy/3658-gcd-of-odd-and-even-sums/) - Easy
-
 ## Backtracking (2)
 
 - #78 [Subsets](Medium/0078-subsets/) - Medium
 - #90 [Subsets II](Medium/0090-subsets-ii/) - Medium
-
-## Enumeration (2)
-
-- #1291 [Sequential Digits](Medium/1291-sequential-digits/) - Medium
-- #3345 [Smallest Divisible Digit Product I](Easy/3345-smallest-divisible-digit-product-i/) - Easy
 
 ## Greedy (2)
 
@@ -389,6 +393,14 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
 - #69 [Sqrt(x)](Easy/0069-sqrtx/) - Easy
 
+## Primality Test (1)
+
+- #204 [Count Primes](Medium/0204-count-primes/) - Medium
+
+## Prime Number Sieve (1)
+
+- #204 [Count Primes](Medium/0204-count-primes/) - Medium
+
 ## Queue (1)
 
 - #387 [First Unique Character in a String](Easy/0387-first-unique-character-in-a-string/) - Easy
@@ -400,6 +412,10 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 ## Segment Tree (1)
 
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
+
+## Sieve Theory (1)
+
+- #204 [Count Primes](Medium/0204-count-primes/) - Medium
 
 ## String Matching (1)
 

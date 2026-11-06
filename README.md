@@ -7,18 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 69 | 69 |
-| Medium | 34 | 34 |
+| Medium | 35 | 35 |
 | Hard | 2 | 2 |
-| **Total** | **105** | **105** |
+| **Total** | **106** | **106** |
 
-105 problem(s), 105 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-05).
+106 problem(s), 106 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-06).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python3 | 103 |
+| Python3 | 104 |
 | Java | 1 |
 | Python | 1 |
 
@@ -102,7 +102,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-### Medium (34)
+### Medium (35)
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -125,6 +125,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | Python3 | [folder](Medium/0164-maximum-gap/) |
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | Python3 | [folder](Medium/0172-factorial-trailing-zeroes/) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Python3 | [folder](Medium/0189-rotate-array/) |
+| 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | Python3 | [folder](Medium/0204-count-primes/) |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Python3 | [folder](Medium/0238-product-of-array-except-self/) |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Python3 | [folder](Medium/0287-find-the-duplicate-number/) |
 | 453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | Python3 | [folder](Medium/0453-minimum-moves-to-equal-array-elements/) |

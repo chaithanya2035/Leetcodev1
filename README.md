@@ -6,19 +6,19 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 69 | 69 |
+| Easy | 70 | 70 |
 | Medium | 35 | 35 |
 | Hard | 2 | 2 |
-| **Total** | **106** | **106** |
+| **Total** | **107** | **107** |
 
-106 problem(s), 106 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-06).
+107 problem(s), 107 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-07).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python3 | 104 |
+| Python3 | 105 |
 | Java | 1 |
 | Python | 1 |
 
@@ -26,7 +26,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (69)</summary>
+<details><summary><b>Easy</b> (70)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -54,6 +54,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | Python3 | [folder](Easy/0202-happy-number/) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Python3 | [folder](Easy/0217-contains-duplicate/) |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | Python3 | [folder](Easy/0231-power-of-two/) |
+| 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Python3 | [folder](Easy/0234-palindrome-linked-list/) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Python3 | [folder](Easy/0242-valid-anagram/) |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | Python3 | [folder](Easy/0258-add-digits/) |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Python3 | [folder](Easy/0268-missing-number/) |

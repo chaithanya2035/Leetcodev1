@@ -143,7 +143,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3110 [Score of a String](Easy/3110-score-of-a-string/) - Easy
 - #3856 [Trim Trailing Vowels](Easy/3856-trim-trailing-vowels/) - Easy
 
-## Two Pointers (18)
+## Two Pointers (19)
 
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
 - #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
@@ -157,6 +157,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #160 [Intersection of Two Linked Lists](Easy/0160-intersection-of-two-linked-lists/) - Easy
 - #189 [Rotate Array](Medium/0189-rotate-array/) - Medium
 - #202 [Happy Number](Easy/0202-happy-number/) - Easy
+- #234 [Palindrome Linked List](Easy/0234-palindrome-linked-list/) - Easy
 - #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
 - #344 [Reverse String](Easy/0344-reverse-string/) - Easy
 - #876 [Middle of the Linked List](Easy/0876-middle-of-the-linked-list/) - Easy
@@ -194,7 +195,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1385 [Find the Distance Value Between Two Arrays](Easy/1385-find-the-distance-value-between-two-arrays/) - Easy
 - #2089 [Find Target Indices After Sorting Array](Easy/2089-find-target-indices-after-sorting-array/) - Easy
 
-## Linked List (10)
+## Linked List (11)
 
 - #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
 - #19 [Remove Nth Node From End of List](Medium/0019-remove-nth-node-from-end-of-list/) - Medium
@@ -204,23 +205,26 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #141 [Linked List Cycle](Easy/0141-linked-list-cycle/) - Easy
 - #142 [Linked List Cycle II](Medium/0142-linked-list-cycle-ii/) - Medium
 - #160 [Intersection of Two Linked Lists](Easy/0160-intersection-of-two-linked-lists/) - Easy
+- #234 [Palindrome Linked List](Easy/0234-palindrome-linked-list/) - Easy
 - #876 [Middle of the Linked List](Easy/0876-middle-of-the-linked-list/) - Easy
 - #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
 
-## Recursion (7)
+## Recursion (8)
 
 - #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
 - #21 [Merge Two Sorted Lists](Easy/0021-merge-two-sorted-lists/) - Easy
 - #24 [Swap Nodes in Pairs](Medium/0024-swap-nodes-in-pairs/) - Medium
 - #50 [Pow(x, n)](Medium/0050-powx-n/) - Medium
 - #231 [Power of Two](Easy/0231-power-of-two/) - Easy
+- #234 [Palindrome Linked List](Easy/0234-palindrome-linked-list/) - Easy
 - #326 [Power of Three](Easy/0326-power-of-three/) - Easy
 - #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
 
-## Stack (7)
+## Stack (8)
 
 - #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
 - #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
+- #234 [Palindrome Linked List](Easy/0234-palindrome-linked-list/) - Easy
 - #496 [Next Greater Element I](Easy/0496-next-greater-element-i/) - Easy
 - #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
 - #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium

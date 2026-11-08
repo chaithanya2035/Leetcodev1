@@ -7,18 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 70 | 70 |
-| Medium | 35 | 35 |
+| Medium | 36 | 36 |
 | Hard | 2 | 2 |
-| **Total** | **107** | **107** |
+| **Total** | **108** | **108** |
 
-107 problem(s), 107 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-07).
+108 problem(s), 108 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-08).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python3 | 105 |
+| Python3 | 106 |
 | Java | 1 |
 | Python | 1 |
 
@@ -103,7 +103,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-### Medium (35)
+### Medium (36)
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -127,6 +127,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | Python3 | [folder](Medium/0172-factorial-trailing-zeroes/) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Python3 | [folder](Medium/0189-rotate-array/) |
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | Python3 | [folder](Medium/0204-count-primes/) |
+| 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Python3 | [folder](Medium/0209-minimum-size-subarray-sum/) |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Python3 | [folder](Medium/0238-product-of-array-except-self/) |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Python3 | [folder](Medium/0287-find-the-duplicate-number/) |
 | 453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | Python3 | [folder](Medium/0453-minimum-moves-to-equal-array-elements/) |

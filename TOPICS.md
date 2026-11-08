@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (55)
+## Array (56)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
@@ -24,6 +24,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #164 [Maximum Gap](Medium/0164-maximum-gap/) - Medium
 - #189 [Rotate Array](Medium/0189-rotate-array/) - Medium
 - #204 [Count Primes](Medium/0204-count-primes/) - Medium
+- #209 [Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/) - Medium
 - #217 [Contains Duplicate](Easy/0217-contains-duplicate/) - Easy
 - #238 [Product of Array Except Self](Medium/0238-product-of-array-except-self/) - Medium
 - #268 [Missing Number](Easy/0268-missing-number/) - Easy
@@ -181,13 +182,14 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2996 [Smallest Missing Integer Greater Than Sequential Prefix Sum](Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) - Easy
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
 
-## Binary Search (11)
+## Binary Search (12)
 
 - #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
 - #33 [Search in Rotated Sorted Array](Medium/0033-search-in-rotated-sorted-array/) - Medium
 - #34 [Find First and Last Position of Element in Sorted Array](Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) - Medium
 - #35 [Search Insert Position](Easy/0035-search-insert-position/) - Easy
 - #69 [Sqrt(x)](Easy/0069-sqrtx/) - Easy
+- #209 [Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/) - Medium
 - #268 [Missing Number](Easy/0268-missing-number/) - Easy
 - #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
 - #367 [Valid Perfect Square](Easy/0367-valid-perfect-square/) - Easy
@@ -257,6 +259,14 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #102 [Binary Tree Level Order Traversal](Medium/0102-binary-tree-level-order-traversal/) - Medium
 - #701 [Insert into a Binary Search Tree](Medium/0701-insert-into-a-binary-search-tree/) - Medium
 
+## Prefix Sum (5)
+
+- #209 [Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/) - Medium
+- #238 [Product of Array Except Self](Medium/0238-product-of-array-except-self/) - Medium
+- #1732 [Find the Highest Altitude](Easy/1732-find-the-highest-altitude/) - Easy
+- #1991 [Find the Middle Index in Array](Easy/1991-find-the-middle-index-in-array/) - Easy
+- #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
+
 ## Simulation (5)
 
 - #258 [Add Digits](Easy/0258-add-digits/) - Easy
@@ -264,6 +274,14 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
 - #1929 [Concatenation of Array](Easy/1929-concatenation-of-array/) - Easy
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
+
+## Sliding Window (5)
+
+- #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
+- #209 [Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/) - Medium
+- #643 [Maximum Average Subarray I](Easy/0643-maximum-average-subarray-i/) - Easy
+- #1343 [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) - Medium
+- #1358 [Number of Substrings Containing All Three Characters](Medium/1358-number-of-substrings-containing-all-three-characters/) - Medium
 
 ## Tree (5)
 
@@ -293,20 +311,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #258 [Add Digits](Easy/0258-add-digits/) - Easy
 - #1979 [Find Greatest Common Divisor of Array](Easy/1979-find-greatest-common-divisor-of-array/) - Easy
 - #3658 [GCD of Odd and Even Sums](Easy/3658-gcd-of-odd-and-even-sums/) - Easy
-
-## Prefix Sum (4)
-
-- #238 [Product of Array Except Self](Medium/0238-product-of-array-except-self/) - Medium
-- #1732 [Find the Highest Altitude](Easy/1732-find-the-highest-altitude/) - Easy
-- #1991 [Find the Middle Index in Array](Easy/1991-find-the-middle-index-in-array/) - Easy
-- #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
-
-## Sliding Window (4)
-
-- #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
-- #643 [Maximum Average Subarray I](Easy/0643-maximum-average-subarray-i/) - Easy
-- #1343 [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) - Medium
-- #1358 [Number of Substrings Containing All Three Characters](Medium/1358-number-of-substrings-containing-all-three-characters/) - Medium
 
 ## Breadth-First Search (3)
 

@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (56)
+## Array (57)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
@@ -22,6 +22,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #121 [Best Time to Buy and Sell Stock](Easy/0121-best-time-to-buy-and-sell-stock/) - Easy
 - #136 [Single Number](Easy/0136-single-number/) - Easy
 - #164 [Maximum Gap](Medium/0164-maximum-gap/) - Medium
+- #167 [Two Sum II - Input Array Is Sorted](Medium/0167-two-sum-ii-input-array-is-sorted/) - Medium
 - #189 [Rotate Array](Medium/0189-rotate-array/) - Medium
 - #204 [Count Primes](Medium/0204-count-primes/) - Medium
 - #209 [Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/) - Medium
@@ -122,6 +123,29 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 
+## Two Pointers (20)
+
+- #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
+- #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
+- #19 [Remove Nth Node From End of List](Medium/0019-remove-nth-node-from-end-of-list/) - Medium
+- #26 [Remove Duplicates from Sorted Array](Easy/0026-remove-duplicates-from-sorted-array/) - Easy
+- #27 [Remove Element](Easy/0027-remove-element/) - Easy
+- #28 [Find the Index of the First Occurrence in a String](Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) - Easy
+- #125 [Valid Palindrome](Easy/0125-valid-palindrome/) - Easy
+- #141 [Linked List Cycle](Easy/0141-linked-list-cycle/) - Easy
+- #142 [Linked List Cycle II](Medium/0142-linked-list-cycle-ii/) - Medium
+- #160 [Intersection of Two Linked Lists](Easy/0160-intersection-of-two-linked-lists/) - Easy
+- #167 [Two Sum II - Input Array Is Sorted](Medium/0167-two-sum-ii-input-array-is-sorted/) - Medium
+- #189 [Rotate Array](Medium/0189-rotate-array/) - Medium
+- #202 [Happy Number](Easy/0202-happy-number/) - Easy
+- #234 [Palindrome Linked List](Easy/0234-palindrome-linked-list/) - Easy
+- #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
+- #344 [Reverse String](Easy/0344-reverse-string/) - Easy
+- #876 [Middle of the Linked List](Easy/0876-middle-of-the-linked-list/) - Easy
+- #1385 [Find the Distance Value Between Two Arrays](Easy/1385-find-the-distance-value-between-two-arrays/) - Easy
+- #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
+- #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
+
 ## String (19)
 
 - #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
@@ -144,27 +168,21 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3110 [Score of a String](Easy/3110-score-of-a-string/) - Easy
 - #3856 [Trim Trailing Vowels](Easy/3856-trim-trailing-vowels/) - Easy
 
-## Two Pointers (19)
+## Binary Search (13)
 
-- #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
-- #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
-- #19 [Remove Nth Node From End of List](Medium/0019-remove-nth-node-from-end-of-list/) - Medium
-- #26 [Remove Duplicates from Sorted Array](Easy/0026-remove-duplicates-from-sorted-array/) - Easy
-- #27 [Remove Element](Easy/0027-remove-element/) - Easy
-- #28 [Find the Index of the First Occurrence in a String](Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) - Easy
-- #125 [Valid Palindrome](Easy/0125-valid-palindrome/) - Easy
-- #141 [Linked List Cycle](Easy/0141-linked-list-cycle/) - Easy
-- #142 [Linked List Cycle II](Medium/0142-linked-list-cycle-ii/) - Medium
-- #160 [Intersection of Two Linked Lists](Easy/0160-intersection-of-two-linked-lists/) - Easy
-- #189 [Rotate Array](Medium/0189-rotate-array/) - Medium
-- #202 [Happy Number](Easy/0202-happy-number/) - Easy
-- #234 [Palindrome Linked List](Easy/0234-palindrome-linked-list/) - Easy
+- #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
+- #33 [Search in Rotated Sorted Array](Medium/0033-search-in-rotated-sorted-array/) - Medium
+- #34 [Find First and Last Position of Element in Sorted Array](Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) - Medium
+- #35 [Search Insert Position](Easy/0035-search-insert-position/) - Easy
+- #69 [Sqrt(x)](Easy/0069-sqrtx/) - Easy
+- #167 [Two Sum II - Input Array Is Sorted](Medium/0167-two-sum-ii-input-array-is-sorted/) - Medium
+- #209 [Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/) - Medium
+- #268 [Missing Number](Easy/0268-missing-number/) - Easy
 - #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
-- #344 [Reverse String](Easy/0344-reverse-string/) - Easy
-- #876 [Middle of the Linked List](Easy/0876-middle-of-the-linked-list/) - Easy
+- #367 [Valid Perfect Square](Easy/0367-valid-perfect-square/) - Easy
+- #704 [Binary Search](Easy/0704-binary-search/) - Easy
 - #1385 [Find the Distance Value Between Two Arrays](Easy/1385-find-the-distance-value-between-two-arrays/) - Easy
-- #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
-- #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
+- #2089 [Find Target Indices After Sorting Array](Easy/2089-find-target-indices-after-sorting-array/) - Easy
 
 ## Sorting (13)
 
@@ -181,21 +199,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2089 [Find Target Indices After Sorting Array](Easy/2089-find-target-indices-after-sorting-array/) - Easy
 - #2996 [Smallest Missing Integer Greater Than Sequential Prefix Sum](Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) - Easy
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
-
-## Binary Search (12)
-
-- #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
-- #33 [Search in Rotated Sorted Array](Medium/0033-search-in-rotated-sorted-array/) - Medium
-- #34 [Find First and Last Position of Element in Sorted Array](Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) - Medium
-- #35 [Search Insert Position](Easy/0035-search-insert-position/) - Easy
-- #69 [Sqrt(x)](Easy/0069-sqrtx/) - Easy
-- #209 [Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/) - Medium
-- #268 [Missing Number](Easy/0268-missing-number/) - Easy
-- #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
-- #367 [Valid Perfect Square](Easy/0367-valid-perfect-square/) - Easy
-- #704 [Binary Search](Easy/0704-binary-search/) - Easy
-- #1385 [Find the Distance Value Between Two Arrays](Easy/1385-find-the-distance-value-between-two-arrays/) - Easy
-- #2089 [Find Target Indices After Sorting Array](Easy/2089-find-target-indices-after-sorting-array/) - Easy
 
 ## Linked List (11)
 

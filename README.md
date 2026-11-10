@@ -7,18 +7,19 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 70 | 70 |
-| Medium | 36 | 36 |
+| Medium | 37 | 38 |
 | Hard | 2 | 2 |
-| **Total** | **108** | **108** |
+| **Total** | **109** | **110** |
 
-108 problem(s), 108 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-08).
+109 problem(s), 109 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-10).
+> 1 solved problem(s) are not in this repository yet.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python3 | 106 |
+| Python3 | 107 |
 | Java | 1 |
 | Python | 1 |
 
@@ -103,7 +104,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-### Medium (36)
+### Medium (37)
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -124,6 +125,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Python3 | [folder](Medium/0102-binary-tree-level-order-traversal/) |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Python3 | [folder](Medium/0142-linked-list-cycle-ii/) |
 | 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | Python3 | [folder](Medium/0164-maximum-gap/) |
+| 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Python3 | [folder](Medium/0167-two-sum-ii-input-array-is-sorted/) |
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | Python3 | [folder](Medium/0172-factorial-trailing-zeroes/) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Python3 | [folder](Medium/0189-rotate-array/) |
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | Python3 | [folder](Medium/0204-count-primes/) |

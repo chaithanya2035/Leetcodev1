@@ -123,7 +123,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 
-## Two Pointers (20)
+## Two Pointers (21)
 
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
 - #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
@@ -131,6 +131,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #26 [Remove Duplicates from Sorted Array](Easy/0026-remove-duplicates-from-sorted-array/) - Easy
 - #27 [Remove Element](Easy/0027-remove-element/) - Easy
 - #28 [Find the Index of the First Occurrence in a String](Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) - Easy
+- #82 [Remove Duplicates from Sorted List II](Medium/0082-remove-duplicates-from-sorted-list-ii/) - Medium
 - #125 [Valid Palindrome](Easy/0125-valid-palindrome/) - Easy
 - #141 [Linked List Cycle](Easy/0141-linked-list-cycle/) - Easy
 - #142 [Linked List Cycle II](Medium/0142-linked-list-cycle-ii/) - Medium
@@ -200,12 +201,13 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2996 [Smallest Missing Integer Greater Than Sequential Prefix Sum](Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) - Easy
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
 
-## Linked List (11)
+## Linked List (12)
 
 - #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
 - #19 [Remove Nth Node From End of List](Medium/0019-remove-nth-node-from-end-of-list/) - Medium
 - #21 [Merge Two Sorted Lists](Easy/0021-merge-two-sorted-lists/) - Easy
 - #24 [Swap Nodes in Pairs](Medium/0024-swap-nodes-in-pairs/) - Medium
+- #82 [Remove Duplicates from Sorted List II](Medium/0082-remove-duplicates-from-sorted-list-ii/) - Medium
 - #83 [Remove Duplicates from Sorted List](Easy/0083-remove-duplicates-from-sorted-list/) - Easy
 - #141 [Linked List Cycle](Easy/0141-linked-list-cycle/) - Easy
 - #142 [Linked List Cycle II](Medium/0142-linked-list-cycle-ii/) - Medium

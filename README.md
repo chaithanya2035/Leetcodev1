@@ -7,11 +7,11 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 70 | 70 |
-| Medium | 37 | 38 |
+| Medium | 38 | 39 |
 | Hard | 2 | 2 |
-| **Total** | **109** | **110** |
+| **Total** | **110** | **111** |
 
-109 problem(s), 109 solution file(s) in this repository.
+110 problem(s), 110 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-10).
 > 1 solved problem(s) are not in this repository yet.
 
@@ -19,7 +19,7 @@ Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-1
 
 | Language | Files |
 |----------|------:|
-| Python3 | 107 |
+| Python3 | 108 |
 | Java | 1 |
 | Python | 1 |
 
@@ -104,7 +104,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-### Medium (37)
+### Medium (38)
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -121,6 +121,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Python3 | [folder](Medium/0050-powx-n/) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Python3 | [folder](Medium/0053-maximum-subarray/) |
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | Python3 | [folder](Medium/0078-subsets/) |
+| 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | Python3 | [folder](Medium/0082-remove-duplicates-from-sorted-list-ii/) |
 | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | Python3 | [folder](Medium/0090-subsets-ii/) |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Python3 | [folder](Medium/0102-binary-tree-level-order-traversal/) |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Python3 | [folder](Medium/0142-linked-list-cycle-ii/) |

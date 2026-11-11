@@ -7,11 +7,11 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 70 | 70 |
-| Medium | 39 | 40 |
+| Medium | 40 | 41 |
 | Hard | 2 | 2 |
-| **Total** | **111** | **112** |
+| **Total** | **112** | **113** |
 
-111 problem(s), 111 solution file(s) in this repository.
+112 problem(s), 112 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-11).
 > 1 solved problem(s) are not in this repository yet.
 
@@ -19,7 +19,7 @@ Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-1
 
 | Language | Files |
 |----------|------:|
-| Python3 | 109 |
+| Python3 | 110 |
 | Java | 1 |
 | Python | 1 |
 
@@ -104,7 +104,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-### Medium (39)
+### Medium (40)
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -144,6 +144,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | Python3 | [folder](Medium/1441-build-an-array-with-stack-operations/) |
 | 1846 | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | Python3 | [folder](Medium/1846-maximum-element-after-decreasing-and-rearranging/) |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Python3 | [folder](Medium/2095-delete-the-middle-node-of-a-linked-list/) |
+| 3612 | [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/) | Python3 | [folder](Medium/3612-process-string-with-special-operations-i/) |
 | 3737 | [Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) | Python3 | [folder](Medium/3737-count-subarrays-with-majority-element-i/) |
 | 3789 | [Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) | Python3 | [folder](Medium/3789-minimum-cost-to-acquire-required-items/) |
 | 3871 | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/) | Python3 | [folder](Medium/3871-count-commas-in-range-ii/) |

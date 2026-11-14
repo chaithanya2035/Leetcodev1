@@ -62,7 +62,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 - #3875 [Construct Uniform Parity Array I](Easy/3875-construct-uniform-parity-array-i/) - Easy
 
-## Math (32)
+## Math (33)
 
 - #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
 - #7 [Reverse Integer](Medium/0007-reverse-integer/) - Medium
@@ -70,6 +70,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #50 [Pow(x, n)](Medium/0050-powx-n/) - Medium
 - #66 [Plus One](Easy/0066-plus-one/) - Easy
 - #69 [Sqrt(x)](Easy/0069-sqrtx/) - Easy
+- #70 [Climbing Stairs](Easy/0070-climbing-stairs/) - Easy
 - #172 [Factorial Trailing Zeroes](Medium/0172-factorial-trailing-zeroes/) - Medium
 - #189 [Rotate Array](Medium/0189-rotate-array/) - Medium
 - #202 [Happy Number](Easy/0202-happy-number/) - Easy
@@ -275,6 +276,14 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #102 [Binary Tree Level Order Traversal](Medium/0102-binary-tree-level-order-traversal/) - Medium
 - #701 [Insert into a Binary Search Tree](Medium/0701-insert-into-a-binary-search-tree/) - Medium
 
+## Dynamic Programming (5)
+
+- #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
+- #53 [Maximum Subarray](Medium/0053-maximum-subarray/) - Medium
+- #70 [Climbing Stairs](Easy/0070-climbing-stairs/) - Easy
+- #121 [Best Time to Buy and Sell Stock](Easy/0121-best-time-to-buy-and-sell-stock/) - Easy
+- #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
+
 ## Prefix Sum (5)
 
 - #209 [Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/) - Medium
@@ -298,13 +307,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #101 [Symmetric Tree](Easy/0101-symmetric-tree/) - Easy
 - #102 [Binary Tree Level Order Traversal](Medium/0102-binary-tree-level-order-traversal/) - Medium
 - #701 [Insert into a Binary Search Tree](Medium/0701-insert-into-a-binary-search-tree/) - Medium
-
-## Dynamic Programming (4)
-
-- #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
-- #53 [Maximum Subarray](Medium/0053-maximum-subarray/) - Medium
-- #121 [Best Time to Buy and Sell Stock](Easy/0121-best-time-to-buy-and-sell-stock/) - Easy
-- #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
 
 ## Floyd's Cycle Finding Algorithm (4)
 
@@ -361,6 +363,11 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #78 [Subsets](Medium/0078-subsets/) - Medium
 - #90 [Subsets II](Medium/0090-subsets-ii/) - Medium
 
+## Memoization (2)
+
+- #70 [Climbing Stairs](Easy/0070-climbing-stairs/) - Easy
+- #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
+
 ## Pigeonhole Principle (2)
 
 - #164 [Maximum Gap](Medium/0164-maximum-gap/) - Medium
@@ -397,10 +404,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 ## Manacher (1)
 
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
-
-## Memoization (1)
-
-- #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
 
 ## Merge Sort (1)
 

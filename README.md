@@ -6,12 +6,12 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 71 | 72 |
+| Easy | 72 | 73 |
 | Medium | 40 | 43 |
 | Hard | 2 | 2 |
-| **Total** | **113** | **117** |
+| **Total** | **114** | **118** |
 
-113 problem(s), 113 solution file(s) in this repository.
+114 problem(s), 114 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-14).
 > 4 solved problem(s) are not in this repository yet.
 
@@ -19,7 +19,7 @@ Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-1
 
 | Language | Files |
 |----------|------:|
-| Python3 | 111 |
+| Python3 | 112 |
 | Java | 1 |
 | Python | 1 |
 
@@ -27,7 +27,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (71)</summary>
+<details><summary><b>Easy</b> (72)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -92,6 +92,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 3069 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/) | Python3 | [folder](Easy/3069-distribute-elements-into-two-arrays-i/) |
 | 3110 | [Score of a String](https://leetcode.com/problems/score-of-a-string/) | Python3 | [folder](Easy/3110-score-of-a-string/) |
 | 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | Python3 | [folder](Easy/3345-smallest-divisible-digit-product-i/) |
+| 3364 | [Minimum Positive Sum Subarray ](https://leetcode.com/problems/minimum-positive-sum-subarray/) | Python3 | [folder](Easy/3364-minimum-positive-sum-subarray/) |
 | 3471 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/) | Python3 | [folder](Easy/3471-find-the-largest-almost-missing-integer/) |
 | 3622 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/) | Python3 | [folder](Easy/3622-check-divisibility-by-digit-sum-and-product/) |
 | 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums/) | Python3 | [folder](Easy/3658-gcd-of-odd-and-even-sums/) |

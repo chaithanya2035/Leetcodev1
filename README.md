@@ -6,20 +6,20 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 70 | 70 |
-| Medium | 40 | 41 |
+| Easy | 71 | 72 |
+| Medium | 40 | 43 |
 | Hard | 2 | 2 |
-| **Total** | **112** | **113** |
+| **Total** | **113** | **117** |
 
-112 problem(s), 112 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-11).
-> 1 solved problem(s) are not in this repository yet.
+113 problem(s), 113 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-14).
+> 4 solved problem(s) are not in this repository yet.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python3 | 110 |
+| Python3 | 111 |
 | Java | 1 |
 | Python | 1 |
 
@@ -27,7 +27,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (70)</summary>
+<details><summary><b>Easy</b> (71)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -43,6 +43,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Python3 | [folder](Easy/0058-length-of-last-word/) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | Python3 | [folder](Easy/0066-plus-one/) |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Python3 | [folder](Easy/0069-sqrtx/) |
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Python3 | [folder](Easy/0070-climbing-stairs/) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Python3 | [folder](Easy/0083-remove-duplicates-from-sorted-list/) |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Python3 | [folder](Easy/0094-binary-tree-inorder-traversal/) |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Python3 | [folder](Easy/0100-same-tree/) |

@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (57)
+## Array (58)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
@@ -55,6 +55,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2404 [Most Frequent Even Element](Easy/2404-most-frequent-even-element/) - Easy
 - #2996 [Smallest Missing Integer Greater Than Sequential Prefix Sum](Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) - Easy
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
+- #3364 [Minimum Positive Sum Subarray ](Easy/3364-minimum-positive-sum-subarray/) - Easy
 - #3471 [Find the Largest Almost Missing Integer](Easy/3471-find-the-largest-almost-missing-integer/) - Easy
 - #3718 [Smallest Missing Multiple of K](Easy/3718-smallest-missing-multiple-of-k/) - Easy
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
@@ -259,6 +260,15 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2404 [Most Frequent Even Element](Easy/2404-most-frequent-even-element/) - Easy
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 
+## Prefix Sum (6)
+
+- #209 [Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/) - Medium
+- #238 [Product of Array Except Self](Medium/0238-product-of-array-except-self/) - Medium
+- #1732 [Find the Highest Altitude](Easy/1732-find-the-highest-altitude/) - Easy
+- #1991 [Find the Middle Index in Array](Easy/1991-find-the-middle-index-in-array/) - Easy
+- #3364 [Minimum Positive Sum Subarray ](Easy/3364-minimum-positive-sum-subarray/) - Easy
+- #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
+
 ## Simulation (6)
 
 - #258 [Add Digits](Easy/0258-add-digits/) - Easy
@@ -267,6 +277,15 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1929 [Concatenation of Array](Easy/1929-concatenation-of-array/) - Easy
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
 - #3612 [Process String with Special Operations I](Medium/3612-process-string-with-special-operations-i/) - Medium
+
+## Sliding Window (6)
+
+- #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
+- #209 [Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/) - Medium
+- #643 [Maximum Average Subarray I](Easy/0643-maximum-average-subarray-i/) - Easy
+- #1343 [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) - Medium
+- #1358 [Number of Substrings Containing All Three Characters](Medium/1358-number-of-substrings-containing-all-three-characters/) - Medium
+- #3364 [Minimum Positive Sum Subarray ](Easy/3364-minimum-positive-sum-subarray/) - Easy
 
 ## Binary Tree (5)
 
@@ -283,22 +302,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #70 [Climbing Stairs](Easy/0070-climbing-stairs/) - Easy
 - #121 [Best Time to Buy and Sell Stock](Easy/0121-best-time-to-buy-and-sell-stock/) - Easy
 - #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
-
-## Prefix Sum (5)
-
-- #209 [Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/) - Medium
-- #238 [Product of Array Except Self](Medium/0238-product-of-array-except-self/) - Medium
-- #1732 [Find the Highest Altitude](Easy/1732-find-the-highest-altitude/) - Easy
-- #1991 [Find the Middle Index in Array](Easy/1991-find-the-middle-index-in-array/) - Easy
-- #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
-
-## Sliding Window (5)
-
-- #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
-- #209 [Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/) - Medium
-- #643 [Maximum Average Subarray I](Easy/0643-maximum-average-subarray-i/) - Easy
-- #1343 [Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) - Medium
-- #1358 [Number of Substrings Containing All Three Characters](Medium/1358-number-of-substrings-containing-all-three-characters/) - Medium
 
 ## Tree (5)
 

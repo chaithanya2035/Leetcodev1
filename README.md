@@ -7,19 +7,19 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 72 | 73 |
-| Medium | 40 | 43 |
+| Medium | 41 | 44 |
 | Hard | 2 | 2 |
-| **Total** | **114** | **118** |
+| **Total** | **115** | **119** |
 
-114 problem(s), 114 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-14).
+115 problem(s), 115 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-15).
 > 4 solved problem(s) are not in this repository yet.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python3 | 112 |
+| Python3 | 113 |
 | Java | 1 |
 | Python | 1 |
 
@@ -106,7 +106,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-### Medium (40)
+<details><summary><b>Medium</b> (41)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -146,10 +146,13 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | Python3 | [folder](Medium/1441-build-an-array-with-stack-operations/) |
 | 1846 | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | Python3 | [folder](Medium/1846-maximum-element-after-decreasing-and-rearranging/) |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Python3 | [folder](Medium/2095-delete-the-middle-node-of-a-linked-list/) |
+| 2938 | [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/) | Python3 | [folder](Medium/2938-separate-black-and-white-balls/) |
 | 3612 | [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/) | Python3 | [folder](Medium/3612-process-string-with-special-operations-i/) |
 | 3737 | [Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) | Python3 | [folder](Medium/3737-count-subarrays-with-majority-element-i/) |
 | 3789 | [Minimum Cost to Acquire Required Items](https://leetcode.com/problems/minimum-cost-to-acquire-required-items/) | Python3 | [folder](Medium/3789-minimum-cost-to-acquire-required-items/) |
 | 3871 | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/) | Python3 | [folder](Medium/3871-count-commas-in-range-ii/) |
+
+</details>
 
 ### Hard (2)
 

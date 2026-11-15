@@ -126,7 +126,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 
-## Two Pointers (21)
+## Two Pointers (22)
 
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
 - #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
@@ -148,9 +148,10 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #876 [Middle of the Linked List](Easy/0876-middle-of-the-linked-list/) - Easy
 - #1385 [Find the Distance Value Between Two Arrays](Easy/1385-find-the-distance-value-between-two-arrays/) - Easy
 - #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
+- #2938 [Separate Black and White Balls](Medium/2938-separate-black-and-white-balls/) - Medium
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
 
-## String (20)
+## String (21)
 
 - #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
@@ -169,6 +170,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1967 [Number of Strings That Appear as Substrings in Word](Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) - Easy
 - #2278 [Percentage of Letter in String](Easy/2278-percentage-of-letter-in-string/) - Easy
 - #2287 [Rearrange Characters to Make Target String](Easy/2287-rearrange-characters-to-make-target-string/) - Easy
+- #2938 [Separate Black and White Balls](Medium/2938-separate-black-and-white-balls/) - Medium
 - #3110 [Score of a String](Easy/3110-score-of-a-string/) - Easy
 - #3612 [Process String with Special Operations I](Medium/3612-process-string-with-special-operations-i/) - Medium
 - #3856 [Trim Trailing Vowels](Easy/3856-trim-trailing-vowels/) - Easy
@@ -318,6 +320,13 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #202 [Happy Number](Easy/0202-happy-number/) - Easy
 - #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
 
+## Greedy (4)
+
+- #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
+- #1846 [Maximum Element After Decreasing and Rearranging](Medium/1846-maximum-element-after-decreasing-and-rearranging/) - Medium
+- #2938 [Separate Black and White Balls](Medium/2938-separate-black-and-white-balls/) - Medium
+- #3789 [Minimum Cost to Acquire Required Items](Medium/3789-minimum-cost-to-acquire-required-items/) - Medium
+
 ## Number Theory (4)
 
 - #204 [Count Primes](Medium/0204-count-primes/) - Medium
@@ -348,12 +357,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #204 [Count Primes](Medium/0204-count-primes/) - Medium
 - #1291 [Sequential Digits](Medium/1291-sequential-digits/) - Medium
 - #3345 [Smallest Divisible Digit Product I](Easy/3345-smallest-divisible-digit-product-i/) - Easy
-
-## Greedy (3)
-
-- #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
-- #1846 [Maximum Element After Decreasing and Rearranging](Medium/1846-maximum-element-after-decreasing-and-rearranging/) - Medium
-- #3789 [Minimum Cost to Acquire Required Items](Medium/3789-minimum-cost-to-acquire-required-items/) - Medium
 
 ## Monotonic Stack (3)
 

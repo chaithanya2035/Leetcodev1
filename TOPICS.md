@@ -126,6 +126,31 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 
+## String (22)
+
+- #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
+- #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
+- #14 [Longest Common Prefix](Easy/0014-longest-common-prefix/) - Easy
+- #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
+- #28 [Find the Index of the First Occurrence in a String](Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) - Easy
+- #49 [Group Anagrams](Medium/0049-group-anagrams/) - Medium
+- #58 [Length of Last Word](Easy/0058-length-of-last-word/) - Easy
+- #125 [Valid Palindrome](Easy/0125-valid-palindrome/) - Easy
+- #242 [Valid Anagram](Easy/0242-valid-anagram/) - Easy
+- #344 [Reverse String](Easy/0344-reverse-string/) - Easy
+- #387 [First Unique Character in a String](Easy/0387-first-unique-character-in-a-string/) - Easy
+- #504 [Base 7](Easy/0504-base-7/) - Easy
+- #1189 [Maximum Number of Balloons](Easy/1189-maximum-number-of-balloons/) - Easy
+- #1358 [Number of Substrings Containing All Three Characters](Medium/1358-number-of-substrings-containing-all-three-characters/) - Medium
+- #1967 [Number of Strings That Appear as Substrings in Word](Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) - Easy
+- #2243 [Calculate Digit Sum of a String](Easy/2243-calculate-digit-sum-of-a-string/) - Easy
+- #2278 [Percentage of Letter in String](Easy/2278-percentage-of-letter-in-string/) - Easy
+- #2287 [Rearrange Characters to Make Target String](Easy/2287-rearrange-characters-to-make-target-string/) - Easy
+- #2938 [Separate Black and White Balls](Medium/2938-separate-black-and-white-balls/) - Medium
+- #3110 [Score of a String](Easy/3110-score-of-a-string/) - Easy
+- #3612 [Process String with Special Operations I](Medium/3612-process-string-with-special-operations-i/) - Medium
+- #3856 [Trim Trailing Vowels](Easy/3856-trim-trailing-vowels/) - Easy
+
 ## Two Pointers (22)
 
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
@@ -150,30 +175,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
 - #2938 [Separate Black and White Balls](Medium/2938-separate-black-and-white-balls/) - Medium
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
-
-## String (21)
-
-- #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
-- #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
-- #14 [Longest Common Prefix](Easy/0014-longest-common-prefix/) - Easy
-- #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
-- #28 [Find the Index of the First Occurrence in a String](Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) - Easy
-- #49 [Group Anagrams](Medium/0049-group-anagrams/) - Medium
-- #58 [Length of Last Word](Easy/0058-length-of-last-word/) - Easy
-- #125 [Valid Palindrome](Easy/0125-valid-palindrome/) - Easy
-- #242 [Valid Anagram](Easy/0242-valid-anagram/) - Easy
-- #344 [Reverse String](Easy/0344-reverse-string/) - Easy
-- #387 [First Unique Character in a String](Easy/0387-first-unique-character-in-a-string/) - Easy
-- #504 [Base 7](Easy/0504-base-7/) - Easy
-- #1189 [Maximum Number of Balloons](Easy/1189-maximum-number-of-balloons/) - Easy
-- #1358 [Number of Substrings Containing All Three Characters](Medium/1358-number-of-substrings-containing-all-three-characters/) - Medium
-- #1967 [Number of Strings That Appear as Substrings in Word](Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) - Easy
-- #2278 [Percentage of Letter in String](Easy/2278-percentage-of-letter-in-string/) - Easy
-- #2287 [Rearrange Characters to Make Target String](Easy/2287-rearrange-characters-to-make-target-string/) - Easy
-- #2938 [Separate Black and White Balls](Medium/2938-separate-black-and-white-balls/) - Medium
-- #3110 [Score of a String](Easy/3110-score-of-a-string/) - Easy
-- #3612 [Process String with Special Operations I](Medium/3612-process-string-with-special-operations-i/) - Medium
-- #3856 [Trim Trailing Vowels](Easy/3856-trim-trailing-vowels/) - Easy
 
 ## Binary Search (13)
 
@@ -244,6 +245,16 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
 - #1475 [Final Prices With a Special Discount in a Shop](Easy/1475-final-prices-with-a-special-discount-in-a-shop/) - Easy
 
+## Simulation (7)
+
+- #258 [Add Digits](Easy/0258-add-digits/) - Easy
+- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
+- #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
+- #1929 [Concatenation of Array](Easy/1929-concatenation-of-array/) - Easy
+- #2243 [Calculate Digit Sum of a String](Easy/2243-calculate-digit-sum-of-a-string/) - Easy
+- #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
+- #3612 [Process String with Special Operations I](Medium/3612-process-string-with-special-operations-i/) - Medium
+
 ## Bit Manipulation (6)
 
 - #78 [Subsets](Medium/0078-subsets/) - Medium
@@ -270,15 +281,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1991 [Find the Middle Index in Array](Easy/1991-find-the-middle-index-in-array/) - Easy
 - #3364 [Minimum Positive Sum Subarray ](Easy/3364-minimum-positive-sum-subarray/) - Easy
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
-
-## Simulation (6)
-
-- #258 [Add Digits](Easy/0258-add-digits/) - Easy
-- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
-- #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
-- #1929 [Concatenation of Array](Easy/1929-concatenation-of-array/) - Easy
-- #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
-- #3612 [Process String with Special Operations I](Medium/3612-process-string-with-special-operations-i/) - Medium
 
 ## Sliding Window (6)
 

@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (60)
+## Array (61)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
@@ -55,6 +55,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2089 [Find Target Indices After Sorting Array](Easy/2089-find-target-indices-after-sorting-array/) - Easy
 - #2221 [Find Triangular Sum of an Array](Medium/2221-find-triangular-sum-of-an-array/) - Medium
 - #2404 [Most Frequent Even Element](Easy/2404-most-frequent-even-element/) - Easy
+- #2567 [Minimum Score by Changing Two Elements](Medium/2567-minimum-score-by-changing-two-elements/) - Medium
 - #2996 [Smallest Missing Integer Greater Than Sequential Prefix Sum](Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) - Easy
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
 - #3364 [Minimum Positive Sum Subarray ](Easy/3364-minimum-positive-sum-subarray/) - Easy
@@ -196,6 +197,23 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1385 [Find the Distance Value Between Two Arrays](Easy/1385-find-the-distance-value-between-two-arrays/) - Easy
 - #2089 [Find Target Indices After Sorting Array](Easy/2089-find-target-indices-after-sorting-array/) - Easy
 
+## Sorting (14)
+
+- #49 [Group Anagrams](Medium/0049-group-anagrams/) - Medium
+- #164 [Maximum Gap](Medium/0164-maximum-gap/) - Medium
+- #217 [Contains Duplicate](Easy/0217-contains-duplicate/) - Easy
+- #242 [Valid Anagram](Easy/0242-valid-anagram/) - Easy
+- #268 [Missing Number](Easy/0268-missing-number/) - Easy
+- #462 [Minimum Moves to Equal Array Elements II](Medium/0462-minimum-moves-to-equal-array-elements-ii/) - Medium
+- #1288 [Remove Covered Intervals](Medium/1288-remove-covered-intervals/) - Medium
+- #1331 [Rank Transform of an Array](Easy/1331-rank-transform-of-an-array/) - Easy
+- #1385 [Find the Distance Value Between Two Arrays](Easy/1385-find-the-distance-value-between-two-arrays/) - Easy
+- #1846 [Maximum Element After Decreasing and Rearranging](Medium/1846-maximum-element-after-decreasing-and-rearranging/) - Medium
+- #2089 [Find Target Indices After Sorting Array](Easy/2089-find-target-indices-after-sorting-array/) - Easy
+- #2567 [Minimum Score by Changing Two Elements](Medium/2567-minimum-score-by-changing-two-elements/) - Medium
+- #2996 [Smallest Missing Integer Greater Than Sequential Prefix Sum](Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) - Easy
+- #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
+
 ## Linked List (13)
 
 - #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
@@ -211,22 +229,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #234 [Palindrome Linked List](Easy/0234-palindrome-linked-list/) - Easy
 - #876 [Middle of the Linked List](Easy/0876-middle-of-the-linked-list/) - Easy
 - #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
-
-## Sorting (13)
-
-- #49 [Group Anagrams](Medium/0049-group-anagrams/) - Medium
-- #164 [Maximum Gap](Medium/0164-maximum-gap/) - Medium
-- #217 [Contains Duplicate](Easy/0217-contains-duplicate/) - Easy
-- #242 [Valid Anagram](Easy/0242-valid-anagram/) - Easy
-- #268 [Missing Number](Easy/0268-missing-number/) - Easy
-- #462 [Minimum Moves to Equal Array Elements II](Medium/0462-minimum-moves-to-equal-array-elements-ii/) - Medium
-- #1288 [Remove Covered Intervals](Medium/1288-remove-covered-intervals/) - Medium
-- #1331 [Rank Transform of an Array](Easy/1331-rank-transform-of-an-array/) - Easy
-- #1385 [Find the Distance Value Between Two Arrays](Easy/1385-find-the-distance-value-between-two-arrays/) - Easy
-- #1846 [Maximum Element After Decreasing and Rearranging](Medium/1846-maximum-element-after-decreasing-and-rearranging/) - Medium
-- #2089 [Find Target Indices After Sorting Array](Easy/2089-find-target-indices-after-sorting-array/) - Easy
-- #2996 [Smallest Missing Integer Greater Than Sequential Prefix Sum](Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) - Easy
-- #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
 
 ## Recursion (9)
 
@@ -314,6 +316,14 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #121 [Best Time to Buy and Sell Stock](Easy/0121-best-time-to-buy-and-sell-stock/) - Easy
 - #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
 
+## Greedy (5)
+
+- #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
+- #1846 [Maximum Element After Decreasing and Rearranging](Medium/1846-maximum-element-after-decreasing-and-rearranging/) - Medium
+- #2567 [Minimum Score by Changing Two Elements](Medium/2567-minimum-score-by-changing-two-elements/) - Medium
+- #2938 [Separate Black and White Balls](Medium/2938-separate-black-and-white-balls/) - Medium
+- #3789 [Minimum Cost to Acquire Required Items](Medium/3789-minimum-cost-to-acquire-required-items/) - Medium
+
 ## Number Theory (5)
 
 - #204 [Count Primes](Medium/0204-count-primes/) - Medium
@@ -336,13 +346,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #142 [Linked List Cycle II](Medium/0142-linked-list-cycle-ii/) - Medium
 - #202 [Happy Number](Easy/0202-happy-number/) - Easy
 - #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
-
-## Greedy (4)
-
-- #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
-- #1846 [Maximum Element After Decreasing and Rearranging](Medium/1846-maximum-element-after-decreasing-and-rearranging/) - Medium
-- #2938 [Separate Black and White Balls](Medium/2938-separate-black-and-white-balls/) - Medium
-- #3789 [Minimum Cost to Acquire Required Items](Medium/3789-minimum-cost-to-acquire-required-items/) - Medium
 
 ## Breadth-First Search (3)
 

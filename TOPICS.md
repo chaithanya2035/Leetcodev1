@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (58)
+## Array (60)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
@@ -18,6 +18,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #53 [Maximum Subarray](Medium/0053-maximum-subarray/) - Medium
 - #66 [Plus One](Easy/0066-plus-one/) - Easy
 - #78 [Subsets](Medium/0078-subsets/) - Medium
+- #81 [Search in Rotated Sorted Array II](Medium/0081-search-in-rotated-sorted-array-ii/) - Medium
 - #90 [Subsets II](Medium/0090-subsets-ii/) - Medium
 - #121 [Best Time to Buy and Sell Stock](Easy/0121-best-time-to-buy-and-sell-stock/) - Easy
 - #136 [Single Number](Easy/0136-single-number/) - Easy
@@ -52,6 +53,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1979 [Find Greatest Common Divisor of Array](Easy/1979-find-greatest-common-divisor-of-array/) - Easy
 - #1991 [Find the Middle Index in Array](Easy/1991-find-the-middle-index-in-array/) - Easy
 - #2089 [Find Target Indices After Sorting Array](Easy/2089-find-target-indices-after-sorting-array/) - Easy
+- #2221 [Find Triangular Sum of an Array](Medium/2221-find-triangular-sum-of-an-array/) - Medium
 - #2404 [Most Frequent Even Element](Easy/2404-most-frequent-even-element/) - Easy
 - #2996 [Smallest Missing Integer Greater Than Sequential Prefix Sum](Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) - Easy
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
@@ -63,7 +65,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 - #3875 [Construct Uniform Parity Array I](Easy/3875-construct-uniform-parity-array-i/) - Easy
 
-## Math (33)
+## Math (34)
 
 - #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
 - #7 [Reverse Integer](Medium/0007-reverse-integer/) - Medium
@@ -87,6 +89,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
 - #1512 [Number of Good Pairs](Easy/1512-number-of-good-pairs/) - Easy
 - #1979 [Find Greatest Common Divisor of Array](Easy/1979-find-greatest-common-divisor-of-array/) - Easy
+- #2221 [Find Triangular Sum of an Array](Medium/2221-find-triangular-sum-of-an-array/) - Medium
 - #2235 [Add Two Integers](Easy/2235-add-two-integers/) - Easy
 - #2520 [Count the Digits That Divide a Number](Easy/2520-count-the-digits-that-divide-a-number/) - Easy
 - #3345 [Smallest Divisible Digit Product I](Easy/3345-smallest-divisible-digit-product-i/) - Easy
@@ -176,13 +179,14 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2938 [Separate Black and White Balls](Medium/2938-separate-black-and-white-balls/) - Medium
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
 
-## Binary Search (13)
+## Binary Search (14)
 
 - #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
 - #33 [Search in Rotated Sorted Array](Medium/0033-search-in-rotated-sorted-array/) - Medium
 - #34 [Find First and Last Position of Element in Sorted Array](Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) - Medium
 - #35 [Search Insert Position](Easy/0035-search-insert-position/) - Easy
 - #69 [Sqrt(x)](Easy/0069-sqrtx/) - Easy
+- #81 [Search in Rotated Sorted Array II](Medium/0081-search-in-rotated-sorted-array-ii/) - Medium
 - #167 [Two Sum II - Input Array Is Sorted](Medium/0167-two-sum-ii-input-array-is-sorted/) - Medium
 - #209 [Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/) - Medium
 - #268 [Missing Number](Easy/0268-missing-number/) - Easy
@@ -191,6 +195,22 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #704 [Binary Search](Easy/0704-binary-search/) - Easy
 - #1385 [Find the Distance Value Between Two Arrays](Easy/1385-find-the-distance-value-between-two-arrays/) - Easy
 - #2089 [Find Target Indices After Sorting Array](Easy/2089-find-target-indices-after-sorting-array/) - Easy
+
+## Linked List (13)
+
+- #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
+- #19 [Remove Nth Node From End of List](Medium/0019-remove-nth-node-from-end-of-list/) - Medium
+- #21 [Merge Two Sorted Lists](Easy/0021-merge-two-sorted-lists/) - Easy
+- #24 [Swap Nodes in Pairs](Medium/0024-swap-nodes-in-pairs/) - Medium
+- #82 [Remove Duplicates from Sorted List II](Medium/0082-remove-duplicates-from-sorted-list-ii/) - Medium
+- #83 [Remove Duplicates from Sorted List](Easy/0083-remove-duplicates-from-sorted-list/) - Easy
+- #141 [Linked List Cycle](Easy/0141-linked-list-cycle/) - Easy
+- #142 [Linked List Cycle II](Medium/0142-linked-list-cycle-ii/) - Medium
+- #160 [Intersection of Two Linked Lists](Easy/0160-intersection-of-two-linked-lists/) - Easy
+- #203 [Remove Linked List Elements](Easy/0203-remove-linked-list-elements/) - Easy
+- #234 [Palindrome Linked List](Easy/0234-palindrome-linked-list/) - Easy
+- #876 [Middle of the Linked List](Easy/0876-middle-of-the-linked-list/) - Easy
+- #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
 
 ## Sorting (13)
 
@@ -208,31 +228,28 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2996 [Smallest Missing Integer Greater Than Sequential Prefix Sum](Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) - Easy
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
 
-## Linked List (12)
-
-- #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
-- #19 [Remove Nth Node From End of List](Medium/0019-remove-nth-node-from-end-of-list/) - Medium
-- #21 [Merge Two Sorted Lists](Easy/0021-merge-two-sorted-lists/) - Easy
-- #24 [Swap Nodes in Pairs](Medium/0024-swap-nodes-in-pairs/) - Medium
-- #82 [Remove Duplicates from Sorted List II](Medium/0082-remove-duplicates-from-sorted-list-ii/) - Medium
-- #83 [Remove Duplicates from Sorted List](Easy/0083-remove-duplicates-from-sorted-list/) - Easy
-- #141 [Linked List Cycle](Easy/0141-linked-list-cycle/) - Easy
-- #142 [Linked List Cycle II](Medium/0142-linked-list-cycle-ii/) - Medium
-- #160 [Intersection of Two Linked Lists](Easy/0160-intersection-of-two-linked-lists/) - Easy
-- #234 [Palindrome Linked List](Easy/0234-palindrome-linked-list/) - Easy
-- #876 [Middle of the Linked List](Easy/0876-middle-of-the-linked-list/) - Easy
-- #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
-
-## Recursion (8)
+## Recursion (9)
 
 - #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
 - #21 [Merge Two Sorted Lists](Easy/0021-merge-two-sorted-lists/) - Easy
 - #24 [Swap Nodes in Pairs](Medium/0024-swap-nodes-in-pairs/) - Medium
 - #50 [Pow(x, n)](Medium/0050-powx-n/) - Medium
+- #203 [Remove Linked List Elements](Easy/0203-remove-linked-list-elements/) - Easy
 - #231 [Power of Two](Easy/0231-power-of-two/) - Easy
 - #234 [Palindrome Linked List](Easy/0234-palindrome-linked-list/) - Easy
 - #326 [Power of Three](Easy/0326-power-of-three/) - Easy
 - #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
+
+## Simulation (8)
+
+- #258 [Add Digits](Easy/0258-add-digits/) - Easy
+- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
+- #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
+- #1929 [Concatenation of Array](Easy/1929-concatenation-of-array/) - Easy
+- #2221 [Find Triangular Sum of an Array](Medium/2221-find-triangular-sum-of-an-array/) - Medium
+- #2243 [Calculate Digit Sum of a String](Easy/2243-calculate-digit-sum-of-a-string/) - Easy
+- #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
+- #3612 [Process String with Special Operations I](Medium/3612-process-string-with-special-operations-i/) - Medium
 
 ## Stack (8)
 
@@ -244,16 +261,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
 - #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
 - #1475 [Final Prices With a Special Discount in a Shop](Easy/1475-final-prices-with-a-special-discount-in-a-shop/) - Easy
-
-## Simulation (7)
-
-- #258 [Add Digits](Easy/0258-add-digits/) - Easy
-- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
-- #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
-- #1929 [Concatenation of Array](Easy/1929-concatenation-of-array/) - Easy
-- #2243 [Calculate Digit Sum of a String](Easy/2243-calculate-digit-sum-of-a-string/) - Easy
-- #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
-- #3612 [Process String with Special Operations I](Medium/3612-process-string-with-special-operations-i/) - Medium
 
 ## Bit Manipulation (6)
 
@@ -307,6 +314,14 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #121 [Best Time to Buy and Sell Stock](Easy/0121-best-time-to-buy-and-sell-stock/) - Easy
 - #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
 
+## Number Theory (5)
+
+- #204 [Count Primes](Medium/0204-count-primes/) - Medium
+- #258 [Add Digits](Easy/0258-add-digits/) - Easy
+- #1979 [Find Greatest Common Divisor of Array](Easy/1979-find-greatest-common-divisor-of-array/) - Easy
+- #2221 [Find Triangular Sum of an Array](Medium/2221-find-triangular-sum-of-an-array/) - Medium
+- #3658 [GCD of Odd and Even Sums](Easy/3658-gcd-of-odd-and-even-sums/) - Easy
+
 ## Tree (5)
 
 - #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
@@ -328,13 +343,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1846 [Maximum Element After Decreasing and Rearranging](Medium/1846-maximum-element-after-decreasing-and-rearranging/) - Medium
 - #2938 [Separate Black and White Balls](Medium/2938-separate-black-and-white-balls/) - Medium
 - #3789 [Minimum Cost to Acquire Required Items](Medium/3789-minimum-cost-to-acquire-required-items/) - Medium
-
-## Number Theory (4)
-
-- #204 [Count Primes](Medium/0204-count-primes/) - Medium
-- #258 [Add Digits](Easy/0258-add-digits/) - Easy
-- #1979 [Find Greatest Common Divisor of Array](Easy/1979-find-greatest-common-divisor-of-array/) - Easy
-- #3658 [GCD of Odd and Even Sums](Easy/3658-gcd-of-odd-and-even-sums/) - Easy
 
 ## Breadth-First Search (3)
 
@@ -396,6 +404,10 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 ## Bucket Sort (1)
 
 - #164 [Maximum Gap](Medium/0164-maximum-gap/) - Medium
+
+## Combinatorics (1)
+
+- #2221 [Find Triangular Sum of an Array](Medium/2221-find-triangular-sum-of-an-array/) - Medium
 
 ## Euclidean Algorithm (1)
 

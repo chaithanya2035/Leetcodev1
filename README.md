@@ -7,11 +7,11 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 74 | 75 |
-| Medium | 43 | 47 |
+| Medium | 44 | 48 |
 | Hard | 2 | 2 |
-| **Total** | **119** | **124** |
+| **Total** | **120** | **125** |
 
-119 problem(s), 119 solution file(s) in this repository.
+120 problem(s), 120 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-19).
 > 5 solved problem(s) are not in this repository yet.
 
@@ -19,7 +19,7 @@ Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-1
 
 | Language | Files |
 |----------|------:|
-| Python3 | 117 |
+| Python3 | 118 |
 | Java | 1 |
 | Python | 1 |
 
@@ -108,7 +108,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (43)</summary>
+<details><summary><b>Medium</b> (44)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -150,6 +150,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 1846 | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | Python3 | [folder](Medium/1846-maximum-element-after-decreasing-and-rearranging/) |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Python3 | [folder](Medium/2095-delete-the-middle-node-of-a-linked-list/) |
 | 2221 | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) | Python3 | [folder](Medium/2221-find-triangular-sum-of-an-array/) |
+| 2567 | [Minimum Score by Changing Two Elements](https://leetcode.com/problems/minimum-score-by-changing-two-elements/) | Python3 | [folder](Medium/2567-minimum-score-by-changing-two-elements/) |
 | 2938 | [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/) | Python3 | [folder](Medium/2938-separate-black-and-white-balls/) |
 | 3612 | [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/) | Python3 | [folder](Medium/3612-process-string-with-special-operations-i/) |
 | 3737 | [Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) | Python3 | [folder](Medium/3737-count-subarrays-with-majority-element-i/) |

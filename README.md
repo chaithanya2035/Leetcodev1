@@ -6,20 +6,20 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 73 | 74 |
-| Medium | 41 | 46 |
+| Easy | 74 | 75 |
+| Medium | 43 | 47 |
 | Hard | 2 | 2 |
-| **Total** | **116** | **122** |
+| **Total** | **119** | **124** |
 
-116 problem(s), 116 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-17).
-> 6 solved problem(s) are not in this repository yet.
+119 problem(s), 119 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-19).
+> 5 solved problem(s) are not in this repository yet.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python3 | 114 |
+| Python3 | 117 |
 | Java | 1 |
 | Python | 1 |
 
@@ -27,7 +27,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (73)</summary>
+<details><summary><b>Easy</b> (74)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -54,6 +54,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Python3 | [folder](Easy/0141-linked-list-cycle/) |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Python3 | [folder](Easy/0160-intersection-of-two-linked-lists/) |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | Python3 | [folder](Easy/0202-happy-number/) |
+| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | Python3 | [folder](Easy/0203-remove-linked-list-elements/) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Python3 | [folder](Easy/0217-contains-duplicate/) |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | Python3 | [folder](Easy/0231-power-of-two/) |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Python3 | [folder](Easy/0234-palindrome-linked-list/) |
@@ -107,7 +108,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (41)</summary>
+<details><summary><b>Medium</b> (43)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -124,6 +125,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Python3 | [folder](Medium/0050-powx-n/) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Python3 | [folder](Medium/0053-maximum-subarray/) |
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | Python3 | [folder](Medium/0078-subsets/) |
+| 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | Python3 | [folder](Medium/0081-search-in-rotated-sorted-array-ii/) |
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | Python3 | [folder](Medium/0082-remove-duplicates-from-sorted-list-ii/) |
 | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | Python3 | [folder](Medium/0090-subsets-ii/) |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Python3 | [folder](Medium/0102-binary-tree-level-order-traversal/) |
@@ -147,6 +149,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | Python3 | [folder](Medium/1441-build-an-array-with-stack-operations/) |
 | 1846 | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | Python3 | [folder](Medium/1846-maximum-element-after-decreasing-and-rearranging/) |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Python3 | [folder](Medium/2095-delete-the-middle-node-of-a-linked-list/) |
+| 2221 | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array/) | Python3 | [folder](Medium/2221-find-triangular-sum-of-an-array/) |
 | 2938 | [Separate Black and White Balls](https://leetcode.com/problems/separate-black-and-white-balls/) | Python3 | [folder](Medium/2938-separate-black-and-white-balls/) |
 | 3612 | [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i/) | Python3 | [folder](Medium/3612-process-string-with-special-operations-i/) |
 | 3737 | [Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/) | Python3 | [folder](Medium/3737-count-subarrays-with-majority-element-i/) |

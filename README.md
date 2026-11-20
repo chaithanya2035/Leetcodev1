@@ -7,11 +7,11 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 74 | 75 |
-| Medium | 45 | 49 |
+| Medium | 46 | 50 |
 | Hard | 2 | 2 |
-| **Total** | **121** | **126** |
+| **Total** | **122** | **127** |
 
-121 problem(s), 121 solution file(s) in this repository.
+122 problem(s), 122 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-20).
 > 5 solved problem(s) are not in this repository yet.
 
@@ -19,7 +19,7 @@ Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-2
 
 | Language | Files |
 |----------|------:|
-| Python3 | 119 |
+| Python3 | 120 |
 | Java | 1 |
 | Python | 1 |
 
@@ -108,7 +108,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (45)</summary>
+<details><summary><b>Medium</b> (46)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -129,6 +129,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | Python3 | [folder](Medium/0082-remove-duplicates-from-sorted-list-ii/) |
 | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | Python3 | [folder](Medium/0090-subsets-ii/) |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Python3 | [folder](Medium/0102-binary-tree-level-order-traversal/) |
+| 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | Python3 | [folder](Medium/0107-binary-tree-level-order-traversal-ii/) |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Python3 | [folder](Medium/0142-linked-list-cycle-ii/) |
 | 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | Python3 | [folder](Medium/0164-maximum-gap/) |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Python3 | [folder](Medium/0167-two-sum-ii-input-array-is-sorted/) |

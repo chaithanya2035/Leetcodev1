@@ -7,19 +7,19 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 74 | 75 |
-| Medium | 44 | 48 |
+| Medium | 45 | 49 |
 | Hard | 2 | 2 |
-| **Total** | **120** | **125** |
+| **Total** | **121** | **126** |
 
-120 problem(s), 120 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-19).
+121 problem(s), 121 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-20).
 > 5 solved problem(s) are not in this repository yet.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python3 | 118 |
+| Python3 | 119 |
 | Java | 1 |
 | Python | 1 |
 
@@ -108,7 +108,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (44)</summary>
+<details><summary><b>Medium</b> (45)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -141,6 +141,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 453 | [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | Python3 | [folder](Medium/0453-minimum-moves-to-equal-array-elements/) |
 | 462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | Python3 | [folder](Medium/0462-minimum-moves-to-equal-array-elements-ii/) |
 | 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Python3 | [folder](Medium/0701-insert-into-a-binary-search-tree/) |
+| 713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | Python3 | [folder](Medium/0713-subarray-product-less-than-k/) |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Python3 | [folder](Medium/0739-daily-temperatures/) |
 | 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | Python3 | [folder](Medium/1288-remove-covered-intervals/) |
 | 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | Python3 | [folder](Medium/1291-sequential-digits/) |

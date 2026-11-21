@@ -7,19 +7,19 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 74 | 75 |
-| Medium | 46 | 50 |
+| Medium | 47 | 51 |
 | Hard | 2 | 2 |
-| **Total** | **122** | **127** |
+| **Total** | **123** | **128** |
 
-122 problem(s), 122 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-20).
+123 problem(s), 123 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-21).
 > 5 solved problem(s) are not in this repository yet.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python3 | 120 |
+| Python3 | 121 |
 | Java | 1 |
 | Python | 1 |
 
@@ -108,7 +108,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (46)</summary>
+<details><summary><b>Medium</b> (47)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -131,6 +131,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Python3 | [folder](Medium/0102-binary-tree-level-order-traversal/) |
 | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | Python3 | [folder](Medium/0107-binary-tree-level-order-traversal-ii/) |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Python3 | [folder](Medium/0142-linked-list-cycle-ii/) |
+| 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Python3 | [folder](Medium/0143-reorder-list/) |
 | 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | Python3 | [folder](Medium/0164-maximum-gap/) |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Python3 | [folder](Medium/0167-two-sum-ii-input-array-is-sorted/) |
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | Python3 | [folder](Medium/0172-factorial-trailing-zeroes/) |

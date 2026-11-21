@@ -131,6 +131,32 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 
+## Two Pointers (23)
+
+- #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
+- #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
+- #19 [Remove Nth Node From End of List](Medium/0019-remove-nth-node-from-end-of-list/) - Medium
+- #26 [Remove Duplicates from Sorted Array](Easy/0026-remove-duplicates-from-sorted-array/) - Easy
+- #27 [Remove Element](Easy/0027-remove-element/) - Easy
+- #28 [Find the Index of the First Occurrence in a String](Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) - Easy
+- #82 [Remove Duplicates from Sorted List II](Medium/0082-remove-duplicates-from-sorted-list-ii/) - Medium
+- #125 [Valid Palindrome](Easy/0125-valid-palindrome/) - Easy
+- #141 [Linked List Cycle](Easy/0141-linked-list-cycle/) - Easy
+- #142 [Linked List Cycle II](Medium/0142-linked-list-cycle-ii/) - Medium
+- #143 [Reorder List](Medium/0143-reorder-list/) - Medium
+- #160 [Intersection of Two Linked Lists](Easy/0160-intersection-of-two-linked-lists/) - Easy
+- #167 [Two Sum II - Input Array Is Sorted](Medium/0167-two-sum-ii-input-array-is-sorted/) - Medium
+- #189 [Rotate Array](Medium/0189-rotate-array/) - Medium
+- #202 [Happy Number](Easy/0202-happy-number/) - Easy
+- #234 [Palindrome Linked List](Easy/0234-palindrome-linked-list/) - Easy
+- #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
+- #344 [Reverse String](Easy/0344-reverse-string/) - Easy
+- #876 [Middle of the Linked List](Easy/0876-middle-of-the-linked-list/) - Easy
+- #1385 [Find the Distance Value Between Two Arrays](Easy/1385-find-the-distance-value-between-two-arrays/) - Easy
+- #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
+- #2938 [Separate Black and White Balls](Medium/2938-separate-black-and-white-balls/) - Medium
+- #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
+
 ## String (22)
 
 - #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
@@ -156,31 +182,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3612 [Process String with Special Operations I](Medium/3612-process-string-with-special-operations-i/) - Medium
 - #3856 [Trim Trailing Vowels](Easy/3856-trim-trailing-vowels/) - Easy
 
-## Two Pointers (22)
-
-- #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
-- #11 [Container With Most Water](Medium/0011-container-with-most-water/) - Medium
-- #19 [Remove Nth Node From End of List](Medium/0019-remove-nth-node-from-end-of-list/) - Medium
-- #26 [Remove Duplicates from Sorted Array](Easy/0026-remove-duplicates-from-sorted-array/) - Easy
-- #27 [Remove Element](Easy/0027-remove-element/) - Easy
-- #28 [Find the Index of the First Occurrence in a String](Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) - Easy
-- #82 [Remove Duplicates from Sorted List II](Medium/0082-remove-duplicates-from-sorted-list-ii/) - Medium
-- #125 [Valid Palindrome](Easy/0125-valid-palindrome/) - Easy
-- #141 [Linked List Cycle](Easy/0141-linked-list-cycle/) - Easy
-- #142 [Linked List Cycle II](Medium/0142-linked-list-cycle-ii/) - Medium
-- #160 [Intersection of Two Linked Lists](Easy/0160-intersection-of-two-linked-lists/) - Easy
-- #167 [Two Sum II - Input Array Is Sorted](Medium/0167-two-sum-ii-input-array-is-sorted/) - Medium
-- #189 [Rotate Array](Medium/0189-rotate-array/) - Medium
-- #202 [Happy Number](Easy/0202-happy-number/) - Easy
-- #234 [Palindrome Linked List](Easy/0234-palindrome-linked-list/) - Easy
-- #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
-- #344 [Reverse String](Easy/0344-reverse-string/) - Easy
-- #876 [Middle of the Linked List](Easy/0876-middle-of-the-linked-list/) - Easy
-- #1385 [Find the Distance Value Between Two Arrays](Easy/1385-find-the-distance-value-between-two-arrays/) - Easy
-- #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
-- #2938 [Separate Black and White Balls](Medium/2938-separate-black-and-white-balls/) - Medium
-- #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
-
 ## Binary Search (15)
 
 - #4 [Median of Two Sorted Arrays](Hard/0004-median-of-two-sorted-arrays/) - Hard
@@ -199,6 +200,23 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1385 [Find the Distance Value Between Two Arrays](Easy/1385-find-the-distance-value-between-two-arrays/) - Easy
 - #2089 [Find Target Indices After Sorting Array](Easy/2089-find-target-indices-after-sorting-array/) - Easy
 
+## Linked List (14)
+
+- #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
+- #19 [Remove Nth Node From End of List](Medium/0019-remove-nth-node-from-end-of-list/) - Medium
+- #21 [Merge Two Sorted Lists](Easy/0021-merge-two-sorted-lists/) - Easy
+- #24 [Swap Nodes in Pairs](Medium/0024-swap-nodes-in-pairs/) - Medium
+- #82 [Remove Duplicates from Sorted List II](Medium/0082-remove-duplicates-from-sorted-list-ii/) - Medium
+- #83 [Remove Duplicates from Sorted List](Easy/0083-remove-duplicates-from-sorted-list/) - Easy
+- #141 [Linked List Cycle](Easy/0141-linked-list-cycle/) - Easy
+- #142 [Linked List Cycle II](Medium/0142-linked-list-cycle-ii/) - Medium
+- #143 [Reorder List](Medium/0143-reorder-list/) - Medium
+- #160 [Intersection of Two Linked Lists](Easy/0160-intersection-of-two-linked-lists/) - Easy
+- #203 [Remove Linked List Elements](Easy/0203-remove-linked-list-elements/) - Easy
+- #234 [Palindrome Linked List](Easy/0234-palindrome-linked-list/) - Easy
+- #876 [Middle of the Linked List](Easy/0876-middle-of-the-linked-list/) - Easy
+- #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
+
 ## Sorting (14)
 
 - #49 [Group Anagrams](Medium/0049-group-anagrams/) - Medium
@@ -216,33 +234,30 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2996 [Smallest Missing Integer Greater Than Sequential Prefix Sum](Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) - Easy
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
 
-## Linked List (13)
-
-- #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
-- #19 [Remove Nth Node From End of List](Medium/0019-remove-nth-node-from-end-of-list/) - Medium
-- #21 [Merge Two Sorted Lists](Easy/0021-merge-two-sorted-lists/) - Easy
-- #24 [Swap Nodes in Pairs](Medium/0024-swap-nodes-in-pairs/) - Medium
-- #82 [Remove Duplicates from Sorted List II](Medium/0082-remove-duplicates-from-sorted-list-ii/) - Medium
-- #83 [Remove Duplicates from Sorted List](Easy/0083-remove-duplicates-from-sorted-list/) - Easy
-- #141 [Linked List Cycle](Easy/0141-linked-list-cycle/) - Easy
-- #142 [Linked List Cycle II](Medium/0142-linked-list-cycle-ii/) - Medium
-- #160 [Intersection of Two Linked Lists](Easy/0160-intersection-of-two-linked-lists/) - Easy
-- #203 [Remove Linked List Elements](Easy/0203-remove-linked-list-elements/) - Easy
-- #234 [Palindrome Linked List](Easy/0234-palindrome-linked-list/) - Easy
-- #876 [Middle of the Linked List](Easy/0876-middle-of-the-linked-list/) - Easy
-- #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
-
-## Recursion (9)
+## Recursion (10)
 
 - #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
 - #21 [Merge Two Sorted Lists](Easy/0021-merge-two-sorted-lists/) - Easy
 - #24 [Swap Nodes in Pairs](Medium/0024-swap-nodes-in-pairs/) - Medium
 - #50 [Pow(x, n)](Medium/0050-powx-n/) - Medium
+- #143 [Reorder List](Medium/0143-reorder-list/) - Medium
 - #203 [Remove Linked List Elements](Easy/0203-remove-linked-list-elements/) - Easy
 - #231 [Power of Two](Easy/0231-power-of-two/) - Easy
 - #234 [Palindrome Linked List](Easy/0234-palindrome-linked-list/) - Easy
 - #326 [Power of Three](Easy/0326-power-of-three/) - Easy
 - #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
+
+## Stack (9)
+
+- #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
+- #143 [Reorder List](Medium/0143-reorder-list/) - Medium
+- #234 [Palindrome Linked List](Easy/0234-palindrome-linked-list/) - Easy
+- #496 [Next Greater Element I](Easy/0496-next-greater-element-i/) - Easy
+- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
+- #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
+- #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
+- #1475 [Final Prices With a Special Discount in a Shop](Easy/1475-final-prices-with-a-special-discount-in-a-shop/) - Easy
 
 ## Simulation (8)
 
@@ -254,17 +269,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2243 [Calculate Digit Sum of a String](Easy/2243-calculate-digit-sum-of-a-string/) - Easy
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
 - #3612 [Process String with Special Operations I](Medium/3612-process-string-with-special-operations-i/) - Medium
-
-## Stack (8)
-
-- #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
-- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
-- #234 [Palindrome Linked List](Easy/0234-palindrome-linked-list/) - Easy
-- #496 [Next Greater Element I](Easy/0496-next-greater-element-i/) - Easy
-- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
-- #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
-- #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
-- #1475 [Final Prices With a Special Discount in a Shop](Easy/1475-final-prices-with-a-special-discount-in-a-shop/) - Easy
 
 ## Prefix Sum (7)
 

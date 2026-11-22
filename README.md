@@ -6,20 +6,20 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 74 | 75 |
+| Easy | 75 | 76 |
 | Medium | 47 | 51 |
 | Hard | 2 | 2 |
-| **Total** | **123** | **128** |
+| **Total** | **124** | **129** |
 
-123 problem(s), 123 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-21).
+124 problem(s), 124 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-22).
 > 5 solved problem(s) are not in this repository yet.
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python3 | 121 |
+| Python3 | 122 |
 | Java | 1 |
 | Python | 1 |
 
@@ -27,7 +27,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (74)</summary>
+<details><summary><b>Easy</b> (75)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -84,6 +84,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | Python3 | [folder](Easy/1979-find-greatest-common-divisor-of-array/) |
 | 1991 | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | Python3 | [folder](Easy/1991-find-the-middle-index-in-array/) |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Python3 | [folder](Easy/2089-find-target-indices-after-sorting-array/) |
+| 2124 | [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) | Python3 | [folder](Easy/2124-check-if-all-as-appears-before-all-bs/) |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | Python3 | [folder](Easy/2235-add-two-integers/) |
 | 2243 | [Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/) | Python3 | [folder](Easy/2243-calculate-digit-sum-of-a-string/) |
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) | Python3 | [folder](Easy/2278-percentage-of-letter-in-string/) |

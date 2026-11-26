@@ -67,7 +67,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3737 [Count Subarrays With Majority Element I](Medium/3737-count-subarrays-with-majority-element-i/) - Medium
 - #3875 [Construct Uniform Parity Array I](Easy/3875-construct-uniform-parity-array-i/) - Easy
 
-## Math (34)
+## Math (35)
 
 - #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
 - #7 [Reverse Integer](Medium/0007-reverse-integer/) - Medium
@@ -95,6 +95,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2235 [Add Two Integers](Easy/2235-add-two-integers/) - Easy
 - #2520 [Count the Digits That Divide a Number](Easy/2520-count-the-digits-that-divide-a-number/) - Easy
 - #3345 [Smallest Divisible Digit Product I](Easy/3345-smallest-divisible-digit-product-i/) - Easy
+- #3360 [Stone Removal Game](Easy/3360-stone-removal-game/) - Easy
 - #3622 [Check Divisibility by Digit Sum and Product](Easy/3622-check-divisibility-by-digit-sum-and-product/) - Easy
 - #3658 [GCD of Odd and Even Sums](Easy/3658-gcd-of-odd-and-even-sums/) - Easy
 - #3736 [Minimum Moves to Equal Array Elements III](Easy/3736-minimum-moves-to-equal-array-elements-iii/) - Easy
@@ -248,6 +249,18 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #326 [Power of Three](Easy/0326-power-of-three/) - Easy
 - #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
 
+## Simulation (9)
+
+- #258 [Add Digits](Easy/0258-add-digits/) - Easy
+- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
+- #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
+- #1929 [Concatenation of Array](Easy/1929-concatenation-of-array/) - Easy
+- #2221 [Find Triangular Sum of an Array](Medium/2221-find-triangular-sum-of-an-array/) - Medium
+- #2243 [Calculate Digit Sum of a String](Easy/2243-calculate-digit-sum-of-a-string/) - Easy
+- #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
+- #3360 [Stone Removal Game](Easy/3360-stone-removal-game/) - Easy
+- #3612 [Process String with Special Operations I](Medium/3612-process-string-with-special-operations-i/) - Medium
+
 ## Stack (9)
 
 - #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
@@ -259,17 +272,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
 - #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
 - #1475 [Final Prices With a Special Discount in a Shop](Easy/1475-final-prices-with-a-special-discount-in-a-shop/) - Easy
-
-## Simulation (8)
-
-- #258 [Add Digits](Easy/0258-add-digits/) - Easy
-- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
-- #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
-- #1929 [Concatenation of Array](Easy/1929-concatenation-of-array/) - Easy
-- #2221 [Find Triangular Sum of an Array](Medium/2221-find-triangular-sum-of-an-array/) - Medium
-- #2243 [Calculate Digit Sum of a String](Easy/2243-calculate-digit-sum-of-a-string/) - Easy
-- #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
-- #3612 [Process String with Special Operations I](Medium/3612-process-string-with-special-operations-i/) - Medium
 
 ## Prefix Sum (7)
 
